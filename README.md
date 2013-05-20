@@ -1,7 +1,10 @@
 djdns-hype-flat
 ===============
 
-A script and resources to host DNS for the .hype domain using DJDNS and its file backend.
+A script and resources to host DNS for the .hype domain using DJDNS and its
+file backend. Includes a scraper facility to import data from the HypeDNS API.
+Anything hosted on HypeDNS can be hosted with this instead, and it will be
+forward-compatible with DJDNS when the DEJE backend is worth using.
 
 ## Guide to operation
 
