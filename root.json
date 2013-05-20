@@ -1,0 +1,9 @@
+{
+    "branches": [
+        {
+            "selector": "\\.hype$",
+            "records" : [],
+            "targets" : ["./tlds/hype/root.json"]
+        }
+    ]
+}

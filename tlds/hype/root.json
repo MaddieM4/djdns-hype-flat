@@ -1,0 +1,9 @@
+{
+    "branches": [
+        {
+            "selector": "(^|\\.)ri\\.hype$",
+            "records" : [],
+            "targets" : ["private/ri.json"]
+        }
+    ]
+}

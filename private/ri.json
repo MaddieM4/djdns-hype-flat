@@ -1,0 +1,34 @@
+{
+    "branches": [
+        {
+            "selector": "^(gmg\\.)?ri\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "ri.hype",
+                    "rdata": "173.255.210.202"
+                },
+                {
+                    "domain_name": "ri.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "2600:3c01::f03c:91ff:feae:1082"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^orchard\\.ri\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "orchard.ri.hype",
+                    "rdata": "106.186.18.242"
+                },
+                {
+                    "domain_name": "orchard.ri.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fcd4:1dc1:cc08:c97d:85e2:6cad:eab8:864"
+                }
+            ],
+            "targets" : []
+        }
+    ]
+}
