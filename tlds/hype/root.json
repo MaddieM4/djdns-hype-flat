@@ -1,9 +1,17 @@
 {
+    "meta": {
+        "about": "The DJDNS document for the .hype TLD."
+    },
     "branches": [
         {
             "selector": "(^|\\.)ri\\.hype$",
             "records" : [],
             "targets" : ["private/ri.json"]
+        },
+        {
+            "selector": ".*",
+            "records" : [],
+            "targets" : ["tlds/hype/generated.json"]
         }
     ]
 }
