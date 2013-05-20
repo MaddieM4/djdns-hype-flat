@@ -4,6 +4,12 @@
             "selector": "\\.hype$",
             "records" : [],
             "targets" : ["./tlds/hype/root.json"]
+        },
+        {
+            "selector": ".*",
+            "records" : [],
+            "targets" : ["./tlds/hype/generated.json"],
+            "comment" : "Fallback mechanism - evil but it works"
         }
     ]
 }

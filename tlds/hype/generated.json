@@ -546,12 +546,12 @@
             "records": [
                 {
                     "rdata": "fc0c:36e3:72a0:03ed:4293:15b0:96bf:cb67", 
-                    "domain_name": "1.i_like_penguins.hype", 
+                    "domain_name": "1.i_like_penguins", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^1\\.i\\_like\\_penguins\\.hype$"
+            "selector": "^1\\.i\\_like\\_penguins$"
         }, 
         {
             "records": [
@@ -568,12 +568,12 @@
             "records": [
                 {
                     "rdata": "fc10:b9af:2f4c:c724:59ee:9e92:9048:2170", 
-                    "domain_name": "1.ruksak.hype", 
+                    "domain_name": "1.ruksak", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^1\\.ruksak\\.hype$"
+            "selector": "^1\\.ruksak$"
         }, 
         {
             "records": [
@@ -667,12 +667,12 @@
             "records": [
                 {
                     "rdata": "fcb4:baa6:ca46:5255:8514:53da:28dc:1337", 
-                    "domain_name": "1337.XertroV.hype", 
+                    "domain_name": "1337.XertroV", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^1337\\.XertroV\\.hype$"
+            "selector": "^1337\\.xertrov$"
         }, 
         {
             "records": [
@@ -1151,34 +1151,34 @@
             "records": [
                 {
                     "rdata": "fc4e:6b33:6f28:97da:2349:ea5d:7d97:3486", 
-                    "domain_name": "2.i_like_penguins.hype", 
+                    "domain_name": "2.i_like_penguins", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^2\\.i\\_like\\_penguins\\.hype$"
+            "selector": "^2\\.i\\_like\\_penguins$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc63:d905:b625:deab:e2f9:e93a:5ccf:5a38", 
-                    "domain_name": "2.nikomo.hype", 
+                    "domain_name": "2.nikomo", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^2\\.nikomo\\.hype$"
+            "selector": "^2\\.nikomo$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc41:c8da:3c05:0787:6f0f:7fd8:edf2:e482", 
-                    "domain_name": "2.ruksak.hype", 
+                    "domain_name": "2.ruksak", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^2\\.ruksak\\.hype$"
+            "selector": "^2\\.ruksak$"
         }, 
         {
             "records": [
@@ -5650,34 +5650,34 @@
             "records": [
                 {
                     "rdata": "fc44:2519:4b3a:350d:5e55:8845:9dea:fbc4", 
-                    "domain_name": "Centauri2.kolb.hype", 
+                    "domain_name": "Centauri2.kolb", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^Centauri2\\.kolb\\.hype$"
+            "selector": "^centauri2\\.kolb$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcbf:18aa:d1b0:3771:cb1c:abb1:4473:d081", 
-                    "domain_name": "Centurion.kolb.hype", 
+                    "domain_name": "Centurion.kolb", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^Centurion\\.kolb\\.hype$"
+            "selector": "^centurion\\.kolb$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcfc:a07e:a3d2:04b2:ef7d:f1f7:d830:7a2f", 
-                    "domain_name": "CoastToCoast.MaLaCoiD.hype", 
+                    "domain_name": "CoastToCoast.MaLaCoiD", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^CoastToCoast\\.MaLaCoiD\\.hype$"
+            "selector": "^coasttocoast\\.malacoid$"
         }, 
         {
             "records": [
@@ -5688,7 +5688,7 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^Colvanila\\.hype$"
+            "selector": "^colvanila\\.hype$"
         }, 
         {
             "records": [
@@ -5699,7 +5699,7 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^Derfnorb\\.hype$"
+            "selector": "^derfnorb\\.hype$"
         }, 
         {
             "records": [
@@ -5710,7 +5710,7 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^Eric\\.hype$"
+            "selector": "^eric\\.hype$"
         }, 
         {
             "records": [
@@ -5721,18 +5721,18 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^FAEK\\.hype$"
+            "selector": "^faek\\.hype$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcf5:af37:d6d9:05cc:aa1b:3162:f828:a35a", 
-                    "domain_name": "First-OpenWRT.XertroV.hype", 
+                    "domain_name": "First-OpenWRT.XertroV", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^First\\-OpenWRT\\.XertroV\\.hype$"
+            "selector": "^first\\-openwrt\\.xertrov$"
         }, 
         {
             "records": [
@@ -5743,7 +5743,7 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^JayEmbee\\.hype$"
+            "selector": "^jayembee\\.hype$"
         }, 
         {
             "records": [
@@ -5754,7 +5754,7 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^Luminous\\.hype$"
+            "selector": "^luminous\\.hype$"
         }, 
         {
             "records": [
@@ -5765,18 +5765,18 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^MareinBox\\.hype$"
+            "selector": "^mareinbox\\.hype$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc53:31ab:5520:d2cb:0b3d:c5b7:e81e:5cf3", 
-                    "domain_name": "Orion.kolb.hype", 
+                    "domain_name": "Orion.kolb", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^Orion\\.kolb\\.hype$"
+            "selector": "^orion\\.kolb$"
         }, 
         {
             "records": [
@@ -5787,29 +5787,29 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^Q\\.hype$"
+            "selector": "^q\\.hype$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc99:02f4:7795:c86c:36bd:63ae:cf49:d459", 
-                    "domain_name": "SeaNode.noble.hype", 
+                    "domain_name": "SeaNode.noble", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^SeaNode\\.noble\\.hype$"
+            "selector": "^seanode\\.noble$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcdf:7b1c:7390:a96e:a731:3023:f159:901e", 
-                    "domain_name": "Smoki.tlds.hype", 
+                    "domain_name": "Smoki.tlds", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^Smoki\\.tlds\\.hype$"
+            "selector": "^smoki\\.tlds$"
         }, 
         {
             "records": [
@@ -5820,40 +5820,40 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^StretchiMac\\.hype$"
+            "selector": "^stretchimac\\.hype$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc2f:7a3e:ab55:e8db:d269:a0a1:b814:dfc0", 
-                    "domain_name": "TARDIS.rainbow.hype", 
+                    "domain_name": "TARDIS.rainbow", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^TARDIS\\.rainbow\\.hype$"
+            "selector": "^tardis\\.rainbow$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc40:24f6:6e19:8fc3:2cd5:fb0f:2939:9ade", 
-                    "domain_name": "TARDISMini.rainbow.hype", 
+                    "domain_name": "TARDISMini.rainbow", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^TARDISMini\\.rainbow\\.hype$"
+            "selector": "^tardismini\\.rainbow$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc59:6074:59c0:3943:f050:7593:eeaa:4ad5", 
-                    "domain_name": "TonidoPlug2.MaLaCoiD.hype", 
+                    "domain_name": "TonidoPlug2.MaLaCoiD", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^TonidoPlug2\\.MaLaCoiD\\.hype$"
+            "selector": "^tonidoplug2\\.malacoid$"
         }, 
         {
             "records": [
@@ -5864,7 +5864,7 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^Wisellama\\.hype$"
+            "selector": "^wisellama\\.hype$"
         }, 
         {
             "records": [
@@ -5947,23 +5947,12 @@
             "records": [
                 {
                     "rdata": "fc1f:ff25:6c48:06b9:3d65:2084:b072:a1fa", 
-                    "domain_name": "a1fa.XertroV.hype", 
+                    "domain_name": "a1fa.XertroV", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^a1fa\\.XertroV\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "a1fa.xertrov", 
-                    "domain_name": "a1fa.xertrov.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^a1fa\\.xertrov\\.hype$"
+            "selector": "^a1fa\\.xertrov$"
         }, 
         {
             "records": [
@@ -6233,12 +6222,12 @@
             "records": [
                 {
                     "rdata": "fce4:d261:d2d8:68df:c67d:11be:6cf6:3e09", 
-                    "domain_name": "abacus.subluminal.hype", 
+                    "domain_name": "abacus.subluminal", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^abacus\\.subluminal\\.hype$"
+            "selector": "^abacus\\.subluminal$"
         }, 
         {
             "records": [
@@ -6255,34 +6244,34 @@
             "records": [
                 {
                     "rdata": "fc2c:f3f9:50ca:03ab:84e1:2bbd:0532:edbb", 
-                    "domain_name": "abuie-dev.ia.hype", 
+                    "domain_name": "abuie-dev.ia", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^abuie\\-dev\\.ia\\.hype$"
+            "selector": "^abuie\\-dev\\.ia$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc8e:3515:bb0b:5ef0:e0e7:8c28:d830:ac1d", 
-                    "domain_name": "ac1d.XertroV.hype", 
+                    "domain_name": "ac1d.XertroV", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ac1d\\.XertroV\\.hype$"
+            "selector": "^ac1d\\.xertrov$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc67:a256:4827:cda5:87e0:885c:3ce5:0d9f", 
-                    "domain_name": "acari.prof.hype", 
+                    "domain_name": "acari.prof", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^acari\\.prof\\.hype$"
+            "selector": "^acari\\.prof$"
         }, 
         {
             "records": [
@@ -6299,34 +6288,34 @@
             "records": [
                 {
                     "rdata": "fc47:c53e:96b9:a4fd:9cab:d242:81d8:acdc", 
-                    "domain_name": "acdc.XertroV.hype", 
+                    "domain_name": "acdc.XertroV", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^acdc\\.XertroV\\.hype$"
+            "selector": "^acdc\\.xertrov$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc19:b16d:2c27:447f:6030:ee68:a46f:2d6f", 
-                    "domain_name": "aceraceae.subluminal.hype", 
+                    "domain_name": "aceraceae.subluminal", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^aceraceae\\.subluminal\\.hype$"
+            "selector": "^aceraceae\\.subluminal$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc08:9a8e:e84c:407a:ca16:07dc:7d60:f393", 
-                    "domain_name": "acerbic.sonnet.hype", 
+                    "domain_name": "acerbic.sonnet", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^acerbic\\.sonnet\\.hype$"
+            "selector": "^acerbic\\.sonnet$"
         }, 
         {
             "records": [
@@ -6431,45 +6420,45 @@
             "records": [
                 {
                     "rdata": "fce1:92ac:3f16:b0db:06a2:ed13:56b8:e907", 
-                    "domain_name": "ag.TrueShiftBlue.hype", 
+                    "domain_name": "ag.TrueShiftBlue", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ag\\.TrueShiftBlue\\.hype$"
+            "selector": "^ag\\.trueshiftblue$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fca3:b6e7:da41:be1d:0526:d20e:417d:c174", 
-                    "domain_name": "ajbiz11.cjd.hype", 
+                    "domain_name": "ajbiz11.cjd", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ajbiz11\\.cjd\\.hype$"
+            "selector": "^ajbiz11\\.cjd$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc68:7476:f0ba:acc3:ec4a:e464:0e4e:db1e", 
-                    "domain_name": "alpha.volt.hype", 
+                    "domain_name": "alpha.volt", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^alpha\\.volt\\.hype$"
+            "selector": "^alpha\\.volt$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fced:e53c:1b6d:018f:a9fc:fc3d:9050:7ac6", 
-                    "domain_name": "alpha.werecat.hype", 
+                    "domain_name": "alpha.werecat", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^alpha\\.werecat\\.hype$"
+            "selector": "^alpha\\.werecat$"
         }, 
         {
             "records": [
@@ -6486,12 +6475,12 @@
             "records": [
                 {
                     "rdata": "fc77:2c08:66b3:ef78:3883:8303:16f8:8480", 
-                    "domain_name": "althea.mjmada.hype", 
+                    "domain_name": "althea.mjmada", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^althea\\.mjmada\\.hype$"
+            "selector": "^althea\\.mjmada$"
         }, 
         {
             "records": [
@@ -6508,34 +6497,34 @@
             "records": [
                 {
                     "rdata": "fc30:d409:d314:aa01:7313:d08f:7390:7c9c", 
-                    "domain_name": "ane.bannockburn.hype", 
+                    "domain_name": "ane.bannockburn", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ane\\.bannockburn\\.hype$"
+            "selector": "^ane\\.bannockburn$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc45:0868:6d5b:b111:171d:38a6:cd36:d45f", 
-                    "domain_name": "animus.vox.hype", 
+                    "domain_name": "animus.vox", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^animus\\.vox\\.hype$"
+            "selector": "^animus\\.vox$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc6d:dc2a:0da5:a790:2090:91a0:2e8b:de96", 
-                    "domain_name": "app.node.hype", 
+                    "domain_name": "app.node", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^app\\.node\\.hype$"
+            "selector": "^app\\.node$"
         }, 
         {
             "records": [
@@ -6552,12 +6541,12 @@
             "records": [
                 {
                     "rdata": "fc7d:36b1:403c:69ae:3ab6:6a31:9323:bf03", 
-                    "domain_name": "aslo1.csh.hype", 
+                    "domain_name": "aslo1.csh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^aslo1\\.csh\\.hype$"
+            "selector": "^aslo1\\.csh$"
         }, 
         {
             "records": [
@@ -6574,12 +6563,12 @@
             "records": [
                 {
                     "rdata": "fcc0:9564:3f4f:f5b6:3733:6e49:0868:8ba9", 
-                    "domain_name": "atrus.marein.hype", 
+                    "domain_name": "atrus.marein", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^atrus\\.marein\\.hype$"
+            "selector": "^atrus\\.marein$"
         }, 
         {
             "records": [
@@ -6596,23 +6585,12 @@
             "records": [
                 {
                     "rdata": "fcac:a1b5:591a:2b47:dacd:b305:ea3f:817b", 
-                    "domain_name": "awswesteu.CaytKufro.hype", 
+                    "domain_name": "awswesteu.CaytKufro", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^awswesteu\\.CaytKufro\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "awswesteu.caytkufro", 
-                    "domain_name": "awswesteu.caytkufro.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^awswesteu\\.caytkufro\\.hype$"
+            "selector": "^awswesteu\\.caytkufro$"
         }, 
         {
             "records": [
@@ -7058,34 +7036,34 @@
             "records": [
                 {
                     "rdata": "fc98:d143:144c:da5d:3206:4813:979a:360f", 
-                    "domain_name": "babbage.subluminal.hype", 
+                    "domain_name": "babbage.subluminal", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^babbage\\.subluminal\\.hype$"
+            "selector": "^babbage\\.subluminal$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fca0:e44d:c4ae:8ff8:dafc:5558:4688:35f5", 
-                    "domain_name": "backtrack-lappie-ca.iR.hype", 
+                    "domain_name": "backtrack-lappie-ca.iR", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^backtrack\\-lappie\\-ca\\.iR\\.hype$"
+            "selector": "^backtrack\\-lappie\\-ca\\.ir$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc88:7c4e:8b9a:944d:5ebb:9a46:f67c:e387", 
-                    "domain_name": "backtrack-pc-ca.iR.hype", 
+                    "domain_name": "backtrack-pc-ca.iR", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^backtrack\\-pc\\-ca\\.iR\\.hype$"
+            "selector": "^backtrack\\-pc\\-ca\\.ir$"
         }, 
         {
             "records": [
@@ -7102,12 +7080,12 @@
             "records": [
                 {
                     "rdata": "fccc:3ddb:f184:ee46:ae1a:f2a4:4f79:1ee7", 
-                    "domain_name": "banshee.rndsec.hype", 
+                    "domain_name": "banshee.rndsec", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^banshee\\.rndsec\\.hype$"
+            "selector": "^banshee\\.rndsec$"
         }, 
         {
             "records": [
@@ -7234,12 +7212,12 @@
             "records": [
                 {
                     "rdata": "fc7e:854a:b6fe:440b:965d:e487:58fb:5701", 
-                    "domain_name": "bernstein.dark.hype", 
+                    "domain_name": "bernstein.dark", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^bernstein\\.dark\\.hype$"
+            "selector": "^bernstein\\.dark$"
         }, 
         {
             "records": [
@@ -7311,12 +7289,12 @@
             "records": [
                 {
                     "rdata": "fc32:53a3:869e:aa19:f472:5e8d:b097:2b21", 
-                    "domain_name": "bitshift.xr0.hype", 
+                    "domain_name": "bitshift.xr0", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^bitshift\\.xr0\\.hype$"
+            "selector": "^bitshift\\.xr0$"
         }, 
         {
             "records": [
@@ -7333,23 +7311,23 @@
             "records": [
                 {
                     "rdata": "fc1d:cd5a:4ab5:03be:b632:7833:cd8d:844e", 
-                    "domain_name": "blue.jecxjo.hype", 
+                    "domain_name": "blue.jecxjo", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^blue\\.jecxjo\\.hype$"
+            "selector": "^blue\\.jecxjo$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc28:f227:cd7b:8b85:fab6:50fb:4b9b:f057", 
-                    "domain_name": "blue.pants.hype", 
+                    "domain_name": "blue.pants", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^blue\\.pants\\.hype$"
+            "selector": "^blue\\.pants$"
         }, 
         {
             "records": [
@@ -7377,12 +7355,12 @@
             "records": [
                 {
                     "rdata": "fcb1:9899:e493:ead0:1d9f:499e:be1a:36ba", 
-                    "domain_name": "bmozzy.vmnode.hype", 
+                    "domain_name": "bmozzy.vmnode", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^bmozzy\\.vmnode\\.hype$"
+            "selector": "^bmozzy\\.vmnode$"
         }, 
         {
             "records": [
@@ -7399,23 +7377,23 @@
             "records": [
                 {
                     "rdata": "fcb4:aa40:d644:1b94:e96d:3d49:27e7:fdc4", 
-                    "domain_name": "bowshock.xr0.hype", 
+                    "domain_name": "bowshock.xr0", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^bowshock\\.xr0\\.hype$"
+            "selector": "^bowshock\\.xr0$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fce9:4543:c784:a184:60c7:12f2:5fcf:82db", 
-                    "domain_name": "bridge.grundy.hype", 
+                    "domain_name": "bridge.grundy", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^bridge\\.grundy\\.hype$"
+            "selector": "^bridge\\.grundy$"
         }, 
         {
             "records": [
@@ -7454,12 +7432,12 @@
             "records": [
                 {
                     "rdata": "fc98:5be5:9111:47a2:b9c7:aec8:7cb3:2091", 
-                    "domain_name": "buoy.csh.hype", 
+                    "domain_name": "buoy.csh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^buoy\\.csh\\.hype$"
+            "selector": "^buoy\\.csh$"
         }, 
         {
             "records": [
@@ -7850,23 +7828,23 @@
             "records": [
                 {
                     "rdata": "fcdb:67de:af3f:6515:3e06:b6c1:63ff:ac00", 
-                    "domain_name": "cantor.tcxn.hype", 
+                    "domain_name": "cantor.tcxn", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^cantor\\.tcxn\\.hype$"
+            "selector": "^cantor\\.tcxn$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc65:d894:1d6a:648e:e406:7e3f:526a:0142", 
-                    "domain_name": "carthage.helixoide.hype", 
+                    "domain_name": "carthage.helixoide", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^carthage\\.helixoide\\.hype$"
+            "selector": "^carthage\\.helixoide$"
         }, 
         {
             "records": [
@@ -7982,56 +7960,45 @@
             "records": [
                 {
                     "rdata": "fccf:4219:69ec:1a0a:4729:5230:7f6f:ae2f", 
-                    "domain_name": "centauri.kolb.hype", 
+                    "domain_name": "centauri.kolb", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^centauri\\.kolb\\.hype$"
+            "selector": "^centauri\\.kolb$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc4f:e546:c56a:65ed:d506:663b:c47f:b1ae", 
-                    "domain_name": "centauri.kolb.hype", 
+                    "domain_name": "centauri.kolb", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^centauri\\.kolb\\.hype$"
+            "selector": "^centauri\\.kolb$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc3a:1dd0:76d7:d1cd:50ff:5a6c:36e0:cc4f", 
-                    "domain_name": "central.act.hype", 
+                    "domain_name": "central.act", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^central\\.act\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "centurion.kolb", 
-                    "domain_name": "centurion.kolb.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^centurion\\.kolb\\.hype$"
+            "selector": "^central\\.act$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc72:0a82:8e44:fe3d:43c8:db84:bb6b:d78e", 
-                    "domain_name": "cerberus.diod.hype", 
+                    "domain_name": "cerberus.diod", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^cerberus\\.diod\\.hype$"
+            "selector": "^cerberus\\.diod$"
         }, 
         {
             "records": [
@@ -8081,23 +8048,23 @@
             "records": [
                 {
                     "rdata": "fcdc:4e0b:2279:5d7e:bb46:6401:991e:3852", 
-                    "domain_name": "chicken-ca.eztv.hype", 
+                    "domain_name": "chicken-ca.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^chicken\\-ca\\.eztv\\.hype$"
+            "selector": "^chicken\\-ca\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc37:f866:e180:b548:47d8:3c47:5869:16e2", 
-                    "domain_name": "chimaera.diod.hype", 
+                    "domain_name": "chimaera.diod", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^chimaera\\.diod\\.hype$"
+            "selector": "^chimaera\\.diod$"
         }, 
         {
             "records": [
@@ -8114,12 +8081,12 @@
             "records": [
                 {
                     "rdata": "fc07:aa05:fe22:62dc:1e7f:addb:4d51:1cc7", 
-                    "domain_name": "cia.guv.hype", 
+                    "domain_name": "cia.guv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^cia\\.guv\\.hype$"
+            "selector": "^cia\\.guv$"
         }, 
         {
             "records": [
@@ -8136,23 +8103,23 @@
             "records": [
                 {
                     "rdata": "fc26:470b:3021:4e3d:4c4a:bd65:6044:94fe", 
-                    "domain_name": "cjdns.coyo.null.hype", 
+                    "domain_name": "cjdns.coyo.null", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^cjdns\\.coyo\\.null\\.hype$"
+            "selector": "^cjdns\\.coyo\\.null$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcb3:e1ef:e0fb:13e7:4b78:7fc0:59a5:bf2b", 
-                    "domain_name": "cloudchaser.shadowh511.eq.hype", 
+                    "domain_name": "cloudchaser.shadowh511.eq", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^cloudchaser\\.shadowh511\\.eq\\.hype$"
+            "selector": "^cloudchaser\\.shadowh511\\.eq$"
         }, 
         {
             "records": [
@@ -8191,23 +8158,23 @@
             "records": [
                 {
                     "rdata": "fcc1:bc36:7193:2cc2:053c:9844:e80b:d545", 
-                    "domain_name": "core.foghaven.hype", 
+                    "domain_name": "core.foghaven", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^core\\.foghaven\\.hype$"
+            "selector": "^core\\.foghaven$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcf0:d744:9f33:3894:2c82:463a:b10f:0a85", 
-                    "domain_name": "cortana-se.eztv.hype", 
+                    "domain_name": "cortana-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^cortana\\-se\\.eztv\\.hype$"
+            "selector": "^cortana\\-se\\.eztv$"
         }, 
         {
             "records": [
@@ -8246,12 +8213,12 @@
             "records": [
                 {
                     "rdata": "fca8:2dd7:4987:a9be:c8fc:34d7:05a1:4606", 
-                    "domain_name": "cubic.sonnet.hype", 
+                    "domain_name": "cubic.sonnet", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^cubic\\.sonnet\\.hype$"
+            "selector": "^cubic\\.sonnet$"
         }, 
         {
             "records": [
@@ -8686,12 +8653,12 @@
             "records": [
                 {
                     "rdata": "fcab:b4f5:0f16:88df:ca95:1c9c:d4c9:d00c", 
-                    "domain_name": "damiian.cjdns.hype", 
+                    "domain_name": "damiian.cjdns", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^damiian\\.cjdns\\.hype$"
+            "selector": "^damiian\\.cjdns$"
         }, 
         {
             "records": [
@@ -8702,18 +8669,18 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^darkangel\\.Q\\.hype$"
+            "selector": "^darkangel\\.q\\.hype$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fced:9d2f:347e:f067:8cf2:6190:103d:5690", 
-                    "domain_name": "darkstar.csh.hype", 
+                    "domain_name": "darkstar.csh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^darkstar\\.csh\\.hype$"
+            "selector": "^darkstar\\.csh$"
         }, 
         {
             "records": [
@@ -8961,12 +8928,12 @@
             "records": [
                 {
                     "rdata": "fc5c:4453:2db6:8c48:869b:7aad:0026:4e96", 
-                    "domain_name": "defiant-old.simp.hype", 
+                    "domain_name": "defiant-old.simp", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^defiant\\-old\\.simp\\.hype$"
+            "selector": "^defiant\\-old\\.simp$"
         }, 
         {
             "records": [
@@ -8983,23 +8950,23 @@
             "records": [
                 {
                     "rdata": "fce1:d898:3403:bd9d:65df:1dae:97bd:3812", 
-                    "domain_name": "derek.csh.hype", 
+                    "domain_name": "derek.csh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^derek\\.csh\\.hype$"
+            "selector": "^derek\\.csh$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc85:f077:1447:a03e:bae3:30b2:1e87:63b3", 
-                    "domain_name": "desktop.prurigro.hype", 
+                    "domain_name": "desktop.prurigro", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^desktop\\.prurigro\\.hype$"
+            "selector": "^desktop\\.prurigro$"
         }, 
         {
             "records": [
@@ -9038,12 +9005,12 @@
             "records": [
                 {
                     "rdata": "fc69:906b:a7ca:c165:05e9:ea34:d052:87b0", 
-                    "domain_name": "direct.oria.hype", 
+                    "domain_name": "direct.oria", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^direct\\.oria\\.hype$"
+            "selector": "^direct\\.oria$"
         }, 
         {
             "records": [
@@ -9054,51 +9021,40 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^distant\\.Q\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "distant.q.hype", 
-                    "domain_name": "distant.q.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
             "selector": "^distant\\.q\\.hype$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcca:0bde:ee55:2d1a:502c:4dd3:3841:93e0", 
-                    "domain_name": "dpr.shared.act.hype", 
+                    "domain_name": "dpr.shared.act", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^dpr\\.shared\\.act\\.hype$"
+            "selector": "^dpr\\.shared\\.act$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc6c:dc1e:62b5:8b55:147c:3e41:c232:fb4e", 
-                    "domain_name": "dragonborn.cubox.hype", 
+                    "domain_name": "dragonborn.cubox", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^dragonborn\\.cubox\\.hype$"
+            "selector": "^dragonborn\\.cubox$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc36:3207:a529:6102:182c:7a9e:ac80:1d79", 
-                    "domain_name": "dragonborn.cubox.hype", 
+                    "domain_name": "dragonborn.cubox", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^dragonborn\\.cubox\\.hype$"
+            "selector": "^dragonborn\\.cubox$"
         }, 
         {
             "records": [
@@ -9115,12 +9071,12 @@
             "records": [
                 {
                     "rdata": "fc90:d7dc:fb79:52e2:64a0:d37a:317b:7ea0", 
-                    "domain_name": "ds500ss.oss.hype", 
+                    "domain_name": "ds500ss.oss", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ds500ss\\.oss\\.hype$"
+            "selector": "^ds500ss\\.oss$"
         }, 
         {
             "records": [
@@ -9148,12 +9104,12 @@
             "records": [
                 {
                     "rdata": "fc77:2bc1:f85e:bc02:af23:0531:a594:0bad", 
-                    "domain_name": "dynan.rndsec.hype", 
+                    "domain_name": "dynan.rndsec", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^dynan\\.rndsec\\.hype$"
+            "selector": "^dynan\\.rndsec$"
         }, 
         {
             "records": [
@@ -9577,12 +9533,12 @@
             "records": [
                 {
                     "rdata": "fc9a:62c1:75d2:b027:ca9d:9278:4a22:bc37", 
-                    "domain_name": "easy.mesh.hype", 
+                    "domain_name": "easy.mesh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^easy\\.mesh\\.hype$"
+            "selector": "^easy\\.mesh$"
         }, 
         {
             "records": [
@@ -9709,34 +9665,34 @@
             "records": [
                 {
                     "rdata": "fcc0:2030:86be:a088:8b1a:f41b:9797:7b31", 
-                    "domain_name": "enterprise.simp.hype", 
+                    "domain_name": "enterprise.simp", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^enterprise\\.simp\\.hype$"
+            "selector": "^enterprise\\.simp$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc9e:589a:37ec:15cb:a479:f59d:ff3e:8981", 
-                    "domain_name": "ez-www-1-se.eztv.hype", 
+                    "domain_name": "ez-www-1-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ez\\-www\\-1\\-se\\.eztv\\.hype$"
+            "selector": "^ez\\-www\\-1\\-se\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c", 
-                    "domain_name": "ezcrypt-www-1-se.eztv.hype", 
+                    "domain_name": "ezcrypt-www-1-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ezcrypt\\-www\\-1\\-se\\.eztv\\.hype$"
+            "selector": "^ezcrypt\\-www\\-1\\-se\\.eztv$"
         }, 
         {
             "records": [
@@ -10160,12 +10116,12 @@
             "records": [
                 {
                     "rdata": "fce1:3a9f:4546:e9e5:6646:88f9:1b18:8d18", 
-                    "domain_name": "fafnir.ajft.hype", 
+                    "domain_name": "fafnir.ajft", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^fafnir\\.ajft\\.hype$"
+            "selector": "^fafnir\\.ajft$"
         }, 
         {
             "records": [
@@ -10336,56 +10292,56 @@
             "records": [
                 {
                     "rdata": "fcf7:75f0:82e3:327c:7112:b9ab:d1f9:bbbe", 
-                    "domain_name": "fileserv-ca.iR.hype", 
+                    "domain_name": "fileserv-ca.iR", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^fileserv\\-ca\\.iR\\.hype$"
+            "selector": "^fileserv\\-ca\\.ir$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc12:d3b6:760b:18f0:ff49:d42d:b448:9105", 
-                    "domain_name": "first.mac.hype", 
+                    "domain_name": "first.mac", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^first\\.mac\\.hype$"
+            "selector": "^first\\.mac$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcd6:b2a5:e3cc:d78d:fc69:a90f:4bf7:4a02", 
-                    "domain_name": "florida.noble.hype", 
+                    "domain_name": "florida.noble", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^florida\\.noble\\.hype$"
+            "selector": "^florida\\.noble$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc90:1ef9:8b31:b282:aa1a:6864:3fd9:cc40", 
-                    "domain_name": "fluttershy.shadowh511.eq.hype", 
+                    "domain_name": "fluttershy.shadowh511.eq", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^fluttershy\\.shadowh511\\.eq\\.hype$"
+            "selector": "^fluttershy\\.shadowh511\\.eq$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc0b:25ec:eb6b:1842:61ff:cf47:984b:4f21", 
-                    "domain_name": "fr.ruksak.hype", 
+                    "domain_name": "fr.ruksak", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^fr\\.ruksak\\.hype$"
+            "selector": "^fr\\.ruksak$"
         }, 
         {
             "records": [
@@ -10396,40 +10352,29 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^fragment\\.Q\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "fragment.q.hype", 
-                    "domain_name": "fragment.q.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
             "selector": "^fragment\\.q\\.hype$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc3a:2804:615a:b34f:abfe:c7d5:65d6:f50c", 
-                    "domain_name": "fremont.noble.hype", 
+                    "domain_name": "fremont.noble", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^fremont\\.noble\\.hype$"
+            "selector": "^fremont\\.noble$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcf7:0d49:13f3:fe4a:50e5:ebd0:c91f:ed45", 
-                    "domain_name": "frozenfeline.fur.hype", 
+                    "domain_name": "frozenfeline.fur", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^frozenfeline\\.fur\\.hype$"
+            "selector": "^frozenfeline\\.fur$"
         }, 
         {
             "records": [
@@ -10446,23 +10391,23 @@
             "records": [
                 {
                     "rdata": "fc85:7b7a:d8c0:e8e5:4b57:9365:6c4c:6de5", 
-                    "domain_name": "galite.linux.hype", 
+                    "domain_name": "galite.linux", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^galite\\.linux\\.hype$"
+            "selector": "^galite\\.linux$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc17:6d87:f036:9eb1:0a06:bd6d:8744:f3b3", 
-                    "domain_name": "galleon.hyper.hype", 
+                    "domain_name": "galleon.hyper", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^galleon\\.hyper\\.hype$"
+            "selector": "^galleon\\.hyper$"
         }, 
         {
             "records": [
@@ -10501,45 +10446,45 @@
             "records": [
                 {
                     "rdata": "fc71:6c29:8e6b:4e44:eaf5:ae55:eb08:2ca1", 
-                    "domain_name": "gauss.subluminal.hype", 
+                    "domain_name": "gauss.subluminal", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^gauss\\.subluminal\\.hype$"
+            "selector": "^gauss\\.subluminal$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcd4:e3d5:6e9b:0d8c:2dfe:eb0f:4b3b:fff4", 
-                    "domain_name": "gen2.csh.hype", 
+                    "domain_name": "gen2.csh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^gen2\\.csh\\.hype$"
+            "selector": "^gen2\\.csh$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fce8:7075:1c2c:2028:8164:0d4f:203c:ee29", 
-                    "domain_name": "ggenio.lap.hype", 
+                    "domain_name": "ggenio.lap", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ggenio\\.lap\\.hype$"
+            "selector": "^ggenio\\.lap$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc39:baaa:6871:76ba:3b0a:d55c:0e33:cc05", 
-                    "domain_name": "gilean.deepfog.hype", 
+                    "domain_name": "gilean.deepfog", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^gilean\\.deepfog\\.hype$"
+            "selector": "^gilean\\.deepfog$"
         }, 
         {
             "records": [
@@ -10600,12 +10545,12 @@
             "records": [
                 {
                     "rdata": "fc9b:be16:9149:301d:ee97:dd4b:5559:180a", 
-                    "domain_name": "guggenheim-us.ec2.hype", 
+                    "domain_name": "guggenheim-us.ec2", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^guggenheim\\-us\\.ec2\\.hype$"
+            "selector": "^guggenheim\\-us\\.ec2$"
         }, 
         {
             "records": [
@@ -10622,12 +10567,12 @@
             "records": [
                 {
                     "rdata": "fc4a:6bf0:106b:837b:c80c:3149:f424:11b8", 
-                    "domain_name": "hal-se.eztv.hype", 
+                    "domain_name": "hal-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^hal\\-se\\.eztv\\.hype$"
+            "selector": "^hal\\-se\\.eztv$"
         }, 
         {
             "records": [
@@ -10644,34 +10589,34 @@
             "records": [
                 {
                     "rdata": "fc37:8636:7dea:7f3d:6514:ce73:0f7b:f29d", 
-                    "domain_name": "home.gerard.hype", 
+                    "domain_name": "home.gerard", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^home\\.gerard\\.hype$"
+            "selector": "^home\\.gerard$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc40:94fb:4045:1385:11ef:3294:1e63:fdd8", 
-                    "domain_name": "home.grundy.hype", 
+                    "domain_name": "home.grundy", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^home\\.grundy\\.hype$"
+            "selector": "^home\\.grundy$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc4d:58a6:46a2:cac9:0f25:d73b:1fc2:8fec", 
-                    "domain_name": "home.jimjam.hype", 
+                    "domain_name": "home.jimjam", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^home\\.jimjam\\.hype$"
+            "selector": "^home\\.jimjam$"
         }, 
         {
             "records": [
@@ -10688,45 +10633,45 @@
             "records": [
                 {
                     "rdata": "fce4:6335:34ed:db82:ad33:7276:6981:fbb9", 
-                    "domain_name": "home.waag.hype", 
+                    "domain_name": "home.waag", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^home\\.waag\\.hype$"
+            "selector": "^home\\.waag$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcac:541e:9c5c:9ddc:f648:962a:2892:e33e", 
-                    "domain_name": "horo.vmp32k.hype", 
+                    "domain_name": "horo.vmp32k", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^horo\\.vmp32k\\.hype$"
+            "selector": "^horo\\.vmp32k$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc10:2f82:77eb:fc0d:00f9:c66f:c604:9d01", 
-                    "domain_name": "hub.jimjam.hype", 
+                    "domain_name": "hub.jimjam", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^hub\\.jimjam\\.hype$"
+            "selector": "^hub\\.jimjam$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc4d:f9bc:f46c:b636:69ca:f5c3:cbb2:3591", 
-                    "domain_name": "hub.tsb.hype", 
+                    "domain_name": "hub.tsb", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^hub\\.tsb\\.hype$"
+            "selector": "^hub\\.tsb$"
         }, 
         {
             "records": [
@@ -10743,34 +10688,34 @@
             "records": [
                 {
                     "rdata": "fc97:d627:b1b6:3021:7b55:1ea3:1b3b:75a5", 
-                    "domain_name": "hypediscuss.com.hype", 
+                    "domain_name": "hypediscuss.com", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^hypediscuss\\.com\\.hype$"
+            "selector": "^hypediscuss\\.com$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc00:21fe:78db:1c79:c804:1595:d097:0001", 
-                    "domain_name": "hyperboria-public-node.rndsec.hype", 
+                    "domain_name": "hyperboria-public-node.rndsec", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^hyperboria\\-public\\-node\\.rndsec\\.hype$"
+            "selector": "^hyperboria\\-public\\-node\\.rndsec$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3", 
-                    "domain_name": "hyperboria.name.grundy.hype", 
+                    "domain_name": "hyperboria.name.grundy", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^hyperboria\\.name\\.grundy\\.hype$"
+            "selector": "^hyperboria\\.name\\.grundy$"
         }, 
         {
             "records": [
@@ -10809,12 +10754,12 @@
             "records": [
                 {
                     "rdata": "fcff:694f:2527:940e:440c:f734:c1f6:0ddc", 
-                    "domain_name": "i.are.hontss.hype", 
+                    "domain_name": "i.are.hontss", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^i\\.are\\.hontss\\.hype$"
+            "selector": "^i\\.are\\.hontss$"
         }, 
         {
             "records": [
@@ -10831,23 +10776,23 @@
             "records": [
                 {
                     "rdata": "fc74:b701:36f5:2a54:8647:669d:fb62:90b7", 
-                    "domain_name": "img-www-1-fr.eztv.hype", 
+                    "domain_name": "img-www-1-fr.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^img\\-www\\-1\\-fr\\.eztv\\.hype$"
+            "selector": "^img\\-www\\-1\\-fr\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc70:ef76:6ab8:63ca:768b:8d6b:26bc:8f45", 
-                    "domain_name": "imperium.qc.hype", 
+                    "domain_name": "imperium.qc", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^imperium\\.qc\\.hype$"
+            "selector": "^imperium\\.qc$"
         }, 
         {
             "records": [
@@ -10875,12 +10820,12 @@
             "records": [
                 {
                     "rdata": "fcb8:6ae9:c790:4d60:a6e3:be37:7ec1:ef56", 
-                    "domain_name": "intersect-se.eztv.hype", 
+                    "domain_name": "intersect-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^intersect\\-se\\.eztv\\.hype$"
+            "selector": "^intersect\\-se\\.eztv$"
         }, 
         {
             "records": [
@@ -10897,12 +10842,12 @@
             "records": [
                 {
                     "rdata": "fc84:f4e5:9eb0:11f3:5dc8:58c9:e499:6b55", 
-                    "domain_name": "itanic.hswaw.hype", 
+                    "domain_name": "itanic.hswaw", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^itanic\\.hswaw\\.hype$"
+            "selector": "^itanic\\.hswaw$"
         }, 
         {
             "records": [
@@ -10941,12 +10886,12 @@
             "records": [
                 {
                     "rdata": "fcde:4daa:f286:f433:6659:1c93:ff9e:f56e", 
-                    "domain_name": "jman6495.laptop.hype", 
+                    "domain_name": "jman6495.laptop", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^jman6495\\.laptop\\.hype$"
+            "selector": "^jman6495\\.laptop$"
         }, 
         {
             "records": [
@@ -10963,34 +10908,34 @@
             "records": [
                 {
                     "rdata": "fcd3:e5cb:16d0:3cdb:21e9:f97d:3087:b303", 
-                    "domain_name": "karma.mesh.hype", 
+                    "domain_name": "karma.mesh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^karma\\.mesh\\.hype$"
+            "selector": "^karma\\.mesh$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcf6:8958:3d83:fe97:b4db:5d68:9cba:11e5", 
-                    "domain_name": "keppel-ca.eztv.hype", 
+                    "domain_name": "keppel-ca.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^keppel\\-ca\\.eztv\\.hype$"
+            "selector": "^keppel\\-ca\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc0e:4c71:847a:2a57:072d:d6ef:aa6c:0e8c", 
-                    "domain_name": "khisanth.deepfog.hype", 
+                    "domain_name": "khisanth.deepfog", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^khisanth\\.deepfog\\.hype$"
+            "selector": "^khisanth\\.deepfog$"
         }, 
         {
             "records": [
@@ -11007,34 +10952,34 @@
             "records": [
                 {
                     "rdata": "fc98:b82b:dd00:dbea:3de1:8106:2670:94fc", 
-                    "domain_name": "kruug.tao.hype", 
+                    "domain_name": "kruug.tao", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^kruug\\.tao\\.hype$"
+            "selector": "^kruug\\.tao$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcf1:a7a8:8ec0:589b:c64c:cc95:1ced:3679", 
-                    "domain_name": "kvm.c.hype", 
+                    "domain_name": "kvm.c", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^kvm\\.c\\.hype$"
+            "selector": "^kvm\\.c$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc0b:4bea:15d1:10bb:14b9:8ca9:0d77:08d9", 
-                    "domain_name": "kvm1.vmp32k.hype", 
+                    "domain_name": "kvm1.vmp32k", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^kvm1\\.vmp32k\\.hype$"
+            "selector": "^kvm1\\.vmp32k$"
         }, 
         {
             "records": [
@@ -11051,89 +10996,89 @@
             "records": [
                 {
                     "rdata": "fcd6:38e6:00b7:c832:fbec:a86e:0ebe:fe85", 
-                    "domain_name": "kylo.link.hype", 
+                    "domain_name": "kylo.link", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^kylo\\.link\\.hype$"
+            "selector": "^kylo\\.link$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcb5:8b03:fb46:aad0:8fe5:f5cf:6673:82b5", 
-                    "domain_name": "lain.thewired.hype", 
+                    "domain_name": "lain.thewired", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^lain\\.thewired\\.hype$"
+            "selector": "^lain\\.thewired$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc5a:dd82:e0bd:9899:ac97:570e:31e5:b917", 
-                    "domain_name": "lap.bteot.hype", 
+                    "domain_name": "lap.bteot", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^lap\\.bteot\\.hype$"
+            "selector": "^lap\\.bteot$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc40:3201:677b:c546:5076:6b73:d9df:3ac9", 
-                    "domain_name": "laptop.CaytKufro.hype", 
+                    "domain_name": "laptop.CaytKufro", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^laptop\\.CaytKufro\\.hype$"
+            "selector": "^laptop\\.caytkufro$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fca5:9fe0:3fa2:d576:71e6:8373:7aeb:ea11", 
-                    "domain_name": "laptop.dan.hype", 
+                    "domain_name": "laptop.dan", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^laptop\\.dan\\.hype$"
+            "selector": "^laptop\\.dan$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc69:c000:9698:c52d:c48a:8cc2:4dc7:03d7", 
-                    "domain_name": "laptop.derek.csh.hype", 
+                    "domain_name": "laptop.derek.csh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^laptop\\.derek\\.csh\\.hype$"
+            "selector": "^laptop\\.derek\\.csh$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc55:9ca3:f122:cd32:2056:9de5:aa2b:bf77", 
-                    "domain_name": "laptop.gerard.hype", 
+                    "domain_name": "laptop.gerard", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^laptop\\.gerard\\.hype$"
+            "selector": "^laptop\\.gerard$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc3a:9565:2edd:0170:ca72:494e:f389:262b", 
-                    "domain_name": "laptop.guggenheim-us.ec2.hype", 
+                    "domain_name": "laptop.guggenheim-us.ec2", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^laptop\\.guggenheim\\-us\\.ec2\\.hype$"
+            "selector": "^laptop\\.guggenheim\\-us\\.ec2$"
         }, 
         {
             "records": [
@@ -11161,12 +11106,12 @@
             "records": [
                 {
                     "rdata": "fcb5:d6fa:6b28:f0e4:b0a8:23c6:0433:a869", 
-                    "domain_name": "laptop.prurigro.hype", 
+                    "domain_name": "laptop.prurigro", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^laptop\\.prurigro\\.hype$"
+            "selector": "^laptop\\.prurigro$"
         }, 
         {
             "records": [
@@ -11205,45 +11150,45 @@
             "records": [
                 {
                     "rdata": "fc58:7ce1:b011:920f:5ac7:98dd:e3c4:0c81", 
-                    "domain_name": "laptop.werecat.hype", 
+                    "domain_name": "laptop.werecat", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^laptop\\.werecat\\.hype$"
+            "selector": "^laptop\\.werecat$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc73:e9af:ca06:9fc7:bbff:718a:778e:add1", 
-                    "domain_name": "lc-www-1-se.eztv.hype", 
+                    "domain_name": "lc-www-1-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^lc\\-www\\-1\\-se\\.eztv\\.hype$"
+            "selector": "^lc\\-www\\-1\\-se\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc96:f429:712d:a954:d339:9ab5:6fd7:5b19", 
-                    "domain_name": "leeroy.rndsec.hype", 
+                    "domain_name": "leeroy.rndsec", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^leeroy\\.rndsec\\.hype$"
+            "selector": "^leeroy\\.rndsec$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc00:9846:1c48:9a10:9c1b:3bbc:2322:face", 
-                    "domain_name": "leetbox.rndsec.hype", 
+                    "domain_name": "leetbox.rndsec", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^leetbox\\.rndsec\\.hype$"
+            "selector": "^leetbox\\.rndsec$"
         }, 
         {
             "records": [
@@ -11326,23 +11271,23 @@
             "records": [
                 {
                     "rdata": "fc3f:3ba2:82f3:3262:59b1:1a84:c1c7:4860", 
-                    "domain_name": "macbook.ajft.hype", 
+                    "domain_name": "macbook.ajft", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^macbook\\.ajft\\.hype$"
+            "selector": "^macbook\\.ajft$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc74:b146:a580:2be9:6285:7af3:6a56:2b7b", 
-                    "domain_name": "mail.meshwithme.hype", 
+                    "domain_name": "mail.meshwithme", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^mail\\.meshwithme\\.hype$"
+            "selector": "^mail\\.meshwithme$"
         }, 
         {
             "records": [
@@ -11370,12 +11315,12 @@
             "records": [
                 {
                     "rdata": "fce0:5606:5da8:e74f:a766:336f:b1e6:ed1b", 
-                    "domain_name": "marrero.node.hype", 
+                    "domain_name": "marrero.node", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^marrero\\.node\\.hype$"
+            "selector": "^marrero\\.node$"
         }, 
         {
             "records": [
@@ -11392,45 +11337,45 @@
             "records": [
                 {
                     "rdata": "fc54:b94e:fd85:c3ca:c37d:360e:5011:bdba", 
-                    "domain_name": "mblog.sheep.hype", 
+                    "domain_name": "mblog.sheep", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^mblog\\.sheep\\.hype$"
+            "selector": "^mblog\\.sheep$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc5c:7d87:5011:ed18:4d33:7fcb:e7d0:753d", 
-                    "domain_name": "mcp-se.eztv.hype", 
+                    "domain_name": "mcp-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^mcp\\-se\\.eztv\\.hype$"
+            "selector": "^mcp\\-se\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fce1:b388:04e8:c4ff:654a:3e62:2c68:77ee", 
-                    "domain_name": "mcp-se.eztv.hype", 
+                    "domain_name": "mcp-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^mcp\\-se\\.eztv\\.hype$"
+            "selector": "^mcp\\-se\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcc4:d070:4916:bb1a:0bf8:9550:71ff:0c11", 
-                    "domain_name": "me.waag.hype", 
+                    "domain_name": "me.waag", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^me\\.waag\\.hype$"
+            "selector": "^me\\.waag$"
         }, 
         {
             "records": [
@@ -11480,45 +11425,45 @@
             "records": [
                 {
                     "rdata": "fc23:7b0b:b74d:c6ca:2f61:ae97:dc6a:32f3", 
-                    "domain_name": "meow.mew.hype", 
+                    "domain_name": "meow.mew", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^meow\\.mew\\.hype$"
+            "selector": "^meow\\.mew$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc93:e5b5:7cde:7983:f50c:fe31:106b:1f88", 
-                    "domain_name": "mesh.neoretro.hype", 
+                    "domain_name": "mesh.neoretro", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^mesh\\.neoretro\\.hype$"
+            "selector": "^mesh\\.neoretro$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc3a:9eb3:002f:2147:5408:7b62:983f:e9c1", 
-                    "domain_name": "mesh.neoretro.node.0001.hype", 
+                    "domain_name": "mesh.neoretro.node.0001", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^mesh\\.neoretro\\.node\\.0001\\.hype$"
+            "selector": "^mesh\\.neoretro\\.node\\.0001$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcca:948b:3c04:f481:e678:8539:a57e:197a", 
-                    "domain_name": "mesh.neoretro.slave.hype", 
+                    "domain_name": "mesh.neoretro.slave", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^mesh\\.neoretro\\.slave\\.hype$"
+            "selector": "^mesh\\.neoretro\\.slave$"
         }, 
         {
             "records": [
@@ -11546,34 +11491,34 @@
             "records": [
                 {
                     "rdata": "fcdd:819c:e54a:ce1d:4f6e:af7b:494d:a614", 
-                    "domain_name": "microbito.eee.hype", 
+                    "domain_name": "microbito.eee", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^microbito\\.eee\\.hype$"
+            "selector": "^microbito\\.eee$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fced:4549:1f5f:f5a8:45e3:f338:7345:ca2e", 
-                    "domain_name": "miku.vmp32k.hype", 
+                    "domain_name": "miku.vmp32k", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^miku\\.vmp32k\\.hype$"
+            "selector": "^miku\\.vmp32k$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc20:de43:0f6e:c766:452c:4026:9d39:fddc", 
-                    "domain_name": "mindjail.subluminal.hype", 
+                    "domain_name": "mindjail.subluminal", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^mindjail\\.subluminal\\.hype$"
+            "selector": "^mindjail\\.subluminal$"
         }, 
         {
             "records": [
@@ -11585,17 +11530,6 @@
             ], 
             "targets": [], 
             "selector": "^minecraft\\.matthew\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "minecraft.meshwith.me", 
-                    "domain_name": "minecraft.meshwith.me.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^minecraft\\.meshwith\\.me\\.hype$"
         }, 
         {
             "records": [
@@ -11623,23 +11557,23 @@
             "records": [
                 {
                     "rdata": "fcbe:6fe3:6f7c:a1d7:a584:b86d:ed06:5577", 
-                    "domain_name": "msoucy.csh.hype", 
+                    "domain_name": "msoucy.csh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^msoucy\\.csh\\.hype$"
+            "selector": "^msoucy\\.csh$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc61:692a:559e:1c7b:9e23:bc80:6080:b188", 
-                    "domain_name": "mundo-es.eztv.hype", 
+                    "domain_name": "mundo-es.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^mundo\\-es\\.eztv\\.hype$"
+            "selector": "^mundo\\-es\\.eztv$"
         }, 
         {
             "records": [
@@ -11667,23 +11601,12 @@
             "records": [
                 {
                     "rdata": "fcd5:c432:affb:7e77:a754:74e0:5e98:12d3", 
-                    "domain_name": "napoleon.prometheus.hype", 
+                    "domain_name": "napoleon.prometheus", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^napoleon\\.prometheus\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "nellcraft.rainbow", 
-                    "domain_name": "nellcraft.rainbow.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^nellcraft\\.rainbow\\.hype$"
+            "selector": "^napoleon\\.prometheus$"
         }, 
         {
             "records": [
@@ -11700,23 +11623,23 @@
             "records": [
                 {
                     "rdata": "fca2:2ec5:2fac:31df:6ff3:1a12:7b6a:a933", 
-                    "domain_name": "nikomo.laptop.hype", 
+                    "domain_name": "nikomo.laptop", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^nikomo\\.laptop\\.hype$"
+            "selector": "^nikomo\\.laptop$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcfc:89e0:da25:3e98:23be:bc9a:4114:48d5", 
-                    "domain_name": "nitori.vmp32k.hype", 
+                    "domain_name": "nitori.vmp32k", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^nitori\\.vmp32k\\.hype$"
+            "selector": "^nitori\\.vmp32k$"
         }, 
         {
             "records": [
@@ -11733,12 +11656,12 @@
             "records": [
                 {
                     "rdata": "fce5:de17:cbde:c87b:5289:0556:8b83:c9c8", 
-                    "domain_name": "node.c.hype", 
+                    "domain_name": "node.c", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^node\\.c\\.hype$"
+            "selector": "^node\\.c$"
         }, 
         {
             "records": [
@@ -11755,12 +11678,12 @@
             "records": [
                 {
                     "rdata": "fc0a:8d86:28af:5e10:789b:0f01:a0eb:7d10", 
-                    "domain_name": "nomad-se.eztv.hype", 
+                    "domain_name": "nomad-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^nomad\\-se\\.eztv\\.hype$"
+            "selector": "^nomad\\-se\\.eztv$"
         }, 
         {
             "records": [
@@ -11788,45 +11711,45 @@
             "records": [
                 {
                     "rdata": "fcdd:ef54:6dec:1250:686d:739e:2ce3:ab24", 
-                    "domain_name": "nyan.subluminal.hype", 
+                    "domain_name": "nyan.subluminal", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^nyan\\.subluminal\\.hype$"
+            "selector": "^nyan\\.subluminal$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc9c:c095:d08d:84d3:0566:3fd2:29e5:9637", 
-                    "domain_name": "nz.ruksak.hype", 
+                    "domain_name": "nz.ruksak", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^nz\\.ruksak\\.hype$"
+            "selector": "^nz\\.ruksak$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcf1:dfe0:8de1:602e:a6bb:e167:8145:1708", 
-                    "domain_name": "ola.vms.hype", 
+                    "domain_name": "ola.vms", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ola\\.vms\\.hype$"
+            "selector": "^ola\\.vms$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc6f:5a43:d304:6b0a:aa52:6daf:49c5:0ae2", 
-                    "domain_name": "oldies.MaLaCoiD.hype", 
+                    "domain_name": "oldies.MaLaCoiD", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^oldies\\.MaLaCoiD\\.hype$"
+            "selector": "^oldies\\.malacoid$"
         }, 
         {
             "records": [
@@ -11843,12 +11766,12 @@
             "records": [
                 {
                     "rdata": "fc20:b48d:4ff4:275a:a86f:48d9:2cff:000c", 
-                    "domain_name": "openshelf.app.hype", 
+                    "domain_name": "openshelf.app", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^openshelf\\.app\\.hype$"
+            "selector": "^openshelf\\.app$"
         }, 
         {
             "records": [
@@ -11887,67 +11810,67 @@
             "records": [
                 {
                     "rdata": "fc7b:5f90:01f8:2b33:7c3e:f94b:00f3:0bed", 
-                    "domain_name": "paavo.werecat.hype", 
+                    "domain_name": "paavo.werecat", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^paavo\\.werecat\\.hype$"
+            "selector": "^paavo\\.werecat$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc78:b39f:5850:4449:0b75:bae1:d968:9cbf", 
-                    "domain_name": "paran.anon.hype", 
+                    "domain_name": "paran.anon", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^paran\\.anon\\.hype$"
+            "selector": "^paran\\.anon$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc8f:90ff:0985:4adb:0201:01dc:86c0:95e1", 
-                    "domain_name": "pb.boneasaurus.hype", 
+                    "domain_name": "pb.boneasaurus", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^pb\\.boneasaurus\\.hype$"
+            "selector": "^pb\\.boneasaurus$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcda:9594:eb37:29f6:dbaf:7e35:f546:10ca", 
-                    "domain_name": "petite-fr.eztv.hype", 
+                    "domain_name": "petite-fr.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^petite\\-fr\\.eztv\\.hype$"
+            "selector": "^petite\\-fr\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fccb:1ac2:4260:d1d3:b0b4:281c:0d09:d594", 
-                    "domain_name": "petronella.djpohly.hype", 
+                    "domain_name": "petronella.djpohly", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^petronella\\.djpohly\\.hype$"
+            "selector": "^petronella\\.djpohly$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcad:aa36:08ed:89dd:5e0d:4a25:5a21:ce57", 
-                    "domain_name": "phasi.k.hype", 
+                    "domain_name": "phasi.k", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^phasi\\.k\\.hype$"
+            "selector": "^phasi\\.k$"
         }, 
         {
             "records": [
@@ -11975,56 +11898,56 @@
             "records": [
                 {
                     "rdata": "fcec:5261:ea74:308c:f917:a056:116b:ea24", 
-                    "domain_name": "phobos.dark.hype", 
+                    "domain_name": "phobos.dark", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^phobos\\.dark\\.hype$"
+            "selector": "^phobos\\.dark$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc90:8f10:9ca3:12a1:ab12:c98d:0680:d915", 
-                    "domain_name": "pi.jecxjo.hype", 
+                    "domain_name": "pi.jecxjo", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^pi\\.jecxjo\\.hype$"
+            "selector": "^pi\\.jecxjo$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcd7:b835:8622:67aa:a2f8:ba9d:0dbc:ea55", 
-                    "domain_name": "pi.vmp32k.hype", 
+                    "domain_name": "pi.vmp32k", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^pi\\.vmp32k\\.hype$"
+            "selector": "^pi\\.vmp32k$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc62:dc4e:7d9c:80dc:0fb7:2206:6f38:9d84", 
-                    "domain_name": "pluo.first.hype", 
+                    "domain_name": "pluo.first", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^pluo\\.first\\.hype$"
+            "selector": "^pluo\\.first$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc96:e188:ac20:2fa5:9296:d529:2d73:fb68", 
-                    "domain_name": "po.ny.hype", 
+                    "domain_name": "po.ny", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^po\\.ny\\.hype$"
+            "selector": "^po\\.ny$"
         }, 
         {
             "records": [
@@ -12052,67 +11975,56 @@
             "records": [
                 {
                     "rdata": "fcc0:4839:d3e1:27e7:3774:96c9:304d:d213", 
-                    "domain_name": "popkorn.bar.hype", 
+                    "domain_name": "popkorn.bar", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^popkorn\\.bar\\.hype$"
+            "selector": "^popkorn\\.bar$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc37:40ab:09bc:f766:cf12:31dc:f6a6:93fa", 
-                    "domain_name": "prograde.plasma.hype", 
+                    "domain_name": "prograde.plasma", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^prograde\\.plasma\\.hype$"
+            "selector": "^prograde\\.plasma$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc5d:dead:a1bf:4025:2faf:b816:0ac8:7aaa", 
-                    "domain_name": "progress.bar.hype", 
+                    "domain_name": "progress.bar", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^progress\\.bar\\.hype$"
+            "selector": "^progress\\.bar$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc0f:5338:7bcc:9b46:6c1c:6b12:970e:8e65", 
-                    "domain_name": "proton.dallas.hype", 
+                    "domain_name": "proton.dallas", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^proton\\.dallas\\.hype$"
+            "selector": "^proton\\.dallas$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcb4:ae8b:ee10:b306:03c4:b72c:c96f:9e0a", 
-                    "domain_name": "purple.bit.hype", 
+                    "domain_name": "purple.bit", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^purple\\.bit\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "q.hype", 
-                    "domain_name": "q.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^q\\.hype$"
+            "selector": "^purple\\.bit$"
         }, 
         {
             "records": [
@@ -12129,23 +12041,23 @@
             "records": [
                 {
                     "rdata": "fc70:772a:f803:7c4e:38bd:981b:f791:60a1", 
-                    "domain_name": "qrystal-de.eztv.hype", 
+                    "domain_name": "qrystal-de.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^qrystal\\-de\\.eztv\\.hype$"
+            "selector": "^qrystal\\-de\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc26:7952:e6a0:adba:041c:cdca:5c90:7fcf", 
-                    "domain_name": "raptor-se.eztv.hype", 
+                    "domain_name": "raptor-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^raptor\\-se\\.eztv\\.hype$"
+            "selector": "^raptor\\-se\\.eztv$"
         }, 
         {
             "records": [
@@ -12173,56 +12085,56 @@
             "records": [
                 {
                     "rdata": "fc82:eb3f:ab97:22ce:bb80:46f1:498f:0fef", 
-                    "domain_name": "re.act.hype", 
+                    "domain_name": "re.act", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^re\\.act\\.hype$"
+            "selector": "^re\\.act$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcb5:899a:1b21:7b73:073b:8150:1776:82e5", 
-                    "domain_name": "reisen.vmp32k.hype", 
+                    "domain_name": "reisen.vmp32k", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^reisen\\.vmp32k\\.hype$"
+            "selector": "^reisen\\.vmp32k$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fce6:68c4:62a8:dd16:66b7:3c28:f0ed:5b92", 
-                    "domain_name": "retard-fr.eztv.hype", 
+                    "domain_name": "retard-fr.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^retard\\-fr\\.eztv\\.hype$"
+            "selector": "^retard\\-fr\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc27:b3a9:d2c5:a2c8:1e4b:7d5a:f63f:3e18", 
-                    "domain_name": "retrograde.plasma.hype", 
+                    "domain_name": "retrograde.plasma", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^retrograde\\.plasma\\.hype$"
+            "selector": "^retrograde\\.plasma$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc50:808d:a8cb:07fe:eaa5:293d:2cc1:e10a", 
-                    "domain_name": "ripple.mjmada.hype", 
+                    "domain_name": "ripple.mjmada", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ripple\\.mjmada\\.hype$"
+            "selector": "^ripple\\.mjmada$"
         }, 
         {
             "records": [
@@ -12294,23 +12206,23 @@
             "records": [
                 {
                     "rdata": "fca9:0a6c:e642:b774:b9dd:5a09:f7d6:b73b", 
-                    "domain_name": "rt.TrueShiftBlue.hype", 
+                    "domain_name": "rt.TrueShiftBlue", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^rt\\.TrueShiftBlue\\.hype$"
+            "selector": "^rt\\.trueshiftblue$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc92:f8d3:4278:bea8:337b:e2b8:3144:595c", 
-                    "domain_name": "runeks.cph.hype", 
+                    "domain_name": "runeks.cph", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^runeks\\.cph\\.hype$"
+            "selector": "^runeks\\.cph$"
         }, 
         {
             "records": [
@@ -12338,12 +12250,12 @@
             "records": [
                 {
                     "rdata": "fcf3:38bf:d809:15bc:3b54:937e:b972:2489", 
-                    "domain_name": "ryansb.csh.hype", 
+                    "domain_name": "ryansb.csh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ryansb\\.csh\\.hype$"
+            "selector": "^ryansb\\.csh$"
         }, 
         {
             "records": [
@@ -12360,100 +12272,89 @@
             "records": [
                 {
                     "rdata": "fcf3:f660:f22e:c5cf:1e6d:4697:a619:a2a2", 
-                    "domain_name": "samson.jercos.subluminal.hype", 
+                    "domain_name": "samson.jercos.subluminal", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^samson\\.jercos\\.subluminal\\.hype$"
+            "selector": "^samson\\.jercos\\.subluminal$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc87:514f:bf2f:1f39:8c95:e8a0:8cfd:51c6", 
-                    "domain_name": "sceary.tok.haxx.hype", 
+                    "domain_name": "sceary.tok.haxx", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^sceary\\.tok\\.haxx\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "seanode.noble", 
-                    "domain_name": "seanode.noble.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^seanode\\.noble\\.hype$"
+            "selector": "^sceary\\.tok\\.haxx$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc24:89e1:0f07:f513:a6f9:2400:9f81:6c97", 
-                    "domain_name": "search.borealis.hype", 
+                    "domain_name": "search.borealis", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^search\\.borealis\\.hype$"
+            "selector": "^search\\.borealis$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc01:f86b:c3e9:1260:a8aa:6517:3218:ef9e", 
-                    "domain_name": "seattle.noble.hype", 
+                    "domain_name": "seattle.noble", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^seattle\\.noble\\.hype$"
+            "selector": "^seattle\\.noble$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc63:0b74:f19a:c3f8:fc8c:9c22:f781:f005", 
-                    "domain_name": "seattle.noble.hype", 
+                    "domain_name": "seattle.noble", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^seattle\\.noble\\.hype$"
+            "selector": "^seattle\\.noble$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc12:bd38:2c7b:0dfa:54e0:52a9:4a6c:aaf9", 
-                    "domain_name": "seattle.noble.hype", 
+                    "domain_name": "seattle.noble", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^seattle\\.noble\\.hype$"
+            "selector": "^seattle\\.noble$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc05:2d70:2146:9298:73b9:14fb:d7a9:633a", 
-                    "domain_name": "serenity.werecat.hype", 
+                    "domain_name": "serenity.werecat", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^serenity\\.werecat\\.hype$"
+            "selector": "^serenity\\.werecat$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc0d:7d02:43fb:6152:ed0d:4d86:f999:f699", 
-                    "domain_name": "server.phone.hype", 
+                    "domain_name": "server.phone", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^server\\.phone\\.hype$"
+            "selector": "^server\\.phone$"
         }, 
         {
             "records": [
@@ -12481,34 +12382,34 @@
             "records": [
                 {
                     "rdata": "fcd7:cdf2:052d:6e78:b56b:1a5f:a831:663d", 
-                    "domain_name": "sharky.pcs.ut.hype", 
+                    "domain_name": "sharky.pcs.ut", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^sharky\\.pcs\\.ut\\.hype$"
+            "selector": "^sharky\\.pcs\\.ut$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc22:3c3f:5721:9133:7306:ff3a:5242:bc20", 
-                    "domain_name": "sheep.le.hype", 
+                    "domain_name": "sheep.le", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^sheep\\.le\\.hype$"
+            "selector": "^sheep\\.le$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc84:bf00:0e8b:7303:ed7f:0474:ba95:e793", 
-                    "domain_name": "sheep.le.hype", 
+                    "domain_name": "sheep.le", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^sheep\\.le\\.hype$"
+            "selector": "^sheep\\.le$"
         }, 
         {
             "records": [
@@ -12525,23 +12426,23 @@
             "records": [
                 {
                     "rdata": "fc7e:ed8b:c134:f7e2:6b42:092b:6c4e:4458", 
-                    "domain_name": "shokado.benthor.hype", 
+                    "domain_name": "shokado.benthor", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^shokado\\.benthor\\.hype$"
+            "selector": "^shokado\\.benthor$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fce0:65ea:38a1:7733:e14f:63f0:cf17:16bd", 
-                    "domain_name": "sirqitus.down.under.hype", 
+                    "domain_name": "sirqitus.down.under", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^sirqitus\\.down\\.under\\.hype$"
+            "selector": "^sirqitus\\.down\\.under$"
         }, 
         {
             "records": [
@@ -12558,23 +12459,23 @@
             "records": [
                 {
                     "rdata": "fc56:bbce:daf2:f77f:54ea:720c:db1d:97de", 
-                    "domain_name": "skaia.msoucy.csh.hype", 
+                    "domain_name": "skaia.msoucy.csh", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^skaia\\.msoucy\\.csh\\.hype$"
+            "selector": "^skaia\\.msoucy\\.csh$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc9d:8d38:168f:5644:8145:1be2:39a3:9376", 
-                    "domain_name": "skynet-se.eztv.hype", 
+                    "domain_name": "skynet-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^skynet\\-se\\.eztv\\.hype$"
+            "selector": "^skynet\\-se\\.eztv$"
         }, 
         {
             "records": [
@@ -12591,23 +12492,23 @@
             "records": [
                 {
                     "rdata": "fc9b:103c:aef8:2032:c48d:efc4:c72b:4726", 
-                    "domain_name": "snark.node.hype", 
+                    "domain_name": "snark.node", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^snark\\.node\\.hype$"
+            "selector": "^snark\\.node$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcaf:ce51:3009:9f09:8377:55e6:c2db:203d", 
-                    "domain_name": "snark.node.hype", 
+                    "domain_name": "snark.node", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^snark\\.node\\.hype$"
+            "selector": "^snark\\.node$"
         }, 
         {
             "records": [
@@ -12623,35 +12524,24 @@
         {
             "records": [
                 {
-                    "rdata": "socialno.de", 
-                    "domain_name": "socialno.de.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^socialno\\.de\\.hype$"
-        }, 
-        {
-            "records": [
-                {
                     "rdata": "fc65:dead:7244:1be2:1fce:e1b6:6a00:4ce7", 
-                    "domain_name": "spotcat-temp.fur.hype", 
+                    "domain_name": "spotcat-temp.fur", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^spotcat\\-temp\\.fur\\.hype$"
+            "selector": "^spotcat\\-temp\\.fur$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc38:4c2c:1a8f:3981:f2e7:c2b9:6870:6e84", 
-                    "domain_name": "sql-ca.btc.hype", 
+                    "domain_name": "sql-ca.btc", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^sql\\-ca\\.btc\\.hype$"
+            "selector": "^sql\\-ca\\.btc$"
         }, 
         {
             "records": [
@@ -12662,7 +12552,7 @@
                 }
             ], 
             "targets": [], 
-            "selector": "^standing\\.Q\\.hype$"
+            "selector": "^standing\\.q\\.hype$"
         }, 
         {
             "records": [
@@ -12674,17 +12564,6 @@
             ], 
             "targets": [], 
             "selector": "^strange\\.hype$"
-        }, 
-        {
-            "records": [
-                {
-                    "rdata": "surya.fuzzlabs.org", 
-                    "domain_name": "surya.fuzzlabs.org.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^surya\\.fuzzlabs\\.org\\.hype$"
         }, 
         {
             "records": [
@@ -12711,17 +12590,6 @@
         {
             "records": [
                 {
-                    "rdata": "tcx5.telecomix.tk", 
-                    "domain_name": "tcx5.telecomix.tk.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^tcx5\\.telecomix\\.tk\\.hype$"
-        }, 
-        {
-            "records": [
-                {
                     "rdata": "fcc4:7369:0480:4eb5:0017:fe02:336d:0f83", 
                     "domain_name": "teff.hype", 
                     "rtype": "AAAA"
@@ -12734,12 +12602,12 @@
             "records": [
                 {
                     "rdata": "fcb5:4ba4:b3ef:77fa:b0e4:413b:a313:b321", 
-                    "domain_name": "tekknolagi.dark.hype", 
+                    "domain_name": "tekknolagi.dark", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^tekknolagi\\.dark\\.hype$"
+            "selector": "^tekknolagi\\.dark$"
         }, 
         {
             "records": [
@@ -12767,23 +12635,23 @@
             "records": [
                 {
                     "rdata": "fcd9:b1f1:7a46:6e7e:2a1c:0dfb:3624:6875", 
-                    "domain_name": "test-site.com.ut.hype", 
+                    "domain_name": "test-site.com.ut", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^test\\-site\\.com\\.ut\\.hype$"
+            "selector": "^test\\-site\\.com\\.ut$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc60:fb07:6afd:a187:b7ff:a667:ec51:e254", 
-                    "domain_name": "test.djarum.bank.hype", 
+                    "domain_name": "test.djarum.bank", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^test\\.djarum\\.bank\\.hype$"
+            "selector": "^test\\.djarum\\.bank$"
         }, 
         {
             "records": [
@@ -12800,34 +12668,34 @@
             "records": [
                 {
                     "rdata": "fc77:65d4:2ac5:77b9:cd11:a784:e654:4c70", 
-                    "domain_name": "test2.djarum.bank.hype", 
+                    "domain_name": "test2.djarum.bank", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^test2\\.djarum\\.bank\\.hype$"
+            "selector": "^test2\\.djarum\\.bank$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc38:b9ed:0870:f2a2:99f1:f7eb:9abb:30dc", 
-                    "domain_name": "test4.djarum.bank.hype", 
+                    "domain_name": "test4.djarum.bank", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^test4\\.djarum\\.bank\\.hype$"
+            "selector": "^test4\\.djarum\\.bank$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc45:dbbe:2214:40f6:d4ba:841a:5b3a:19eb", 
-                    "domain_name": "testing.waag.hype", 
+                    "domain_name": "testing.waag", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^testing\\.waag\\.hype$"
+            "selector": "^testing\\.waag$"
         }, 
         {
             "records": [
@@ -12888,45 +12756,45 @@
             "records": [
                 {
                     "rdata": "fc82:a45e:b267:f576:6db1:6e31:50f5:2784", 
-                    "domain_name": "thunderaan.cubox.hype", 
+                    "domain_name": "thunderaan.cubox", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^thunderaan\\.cubox\\.hype$"
+            "selector": "^thunderaan\\.cubox$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcea:3f8b:22f1:01b0:4c28:6509:fd18:5ea9", 
-                    "domain_name": "thunderaan.cubox.hype", 
+                    "domain_name": "thunderaan.cubox", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^thunderaan\\.cubox\\.hype$"
+            "selector": "^thunderaan\\.cubox$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fce1:1d74:f08e:f5dd:f174:db0e:d753:d51d", 
-                    "domain_name": "thunderaan.cubox.hype", 
+                    "domain_name": "thunderaan.cubox", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^thunderaan\\.cubox\\.hype$"
+            "selector": "^thunderaan\\.cubox$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcd9:ff39:418b:4721:a87d:9e70:08e0:ff5a", 
-                    "domain_name": "tobe.free.hype", 
+                    "domain_name": "tobe.free", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^tobe\\.free\\.hype$"
+            "selector": "^tobe\\.free$"
         }, 
         {
             "records": [
@@ -12943,12 +12811,12 @@
             "records": [
                 {
                     "rdata": "fcc6:3038:7a88:3384:4f03:a6a8:a58d:0128", 
-                    "domain_name": "toothless.tcxn.hype", 
+                    "domain_name": "toothless.tcxn", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^toothless\\.tcxn\\.hype$"
+            "selector": "^toothless\\.tcxn$"
         }, 
         {
             "records": [
@@ -12965,45 +12833,45 @@
             "records": [
                 {
                     "rdata": "fc1b:7c82:17f7:d87c:2c8c:9c28:3095:dcd2", 
-                    "domain_name": "transformer.prurigro.hype", 
+                    "domain_name": "transformer.prurigro", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^transformer\\.prurigro\\.hype$"
+            "selector": "^transformer\\.prurigro$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcf0:064d:2491:7756:c479:f16f:285f:3099", 
-                    "domain_name": "trepan.sonnet.hype", 
+                    "domain_name": "trepan.sonnet", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^trepan\\.sonnet\\.hype$"
+            "selector": "^trepan\\.sonnet$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fced:5bf8:b09f:7e03:c468:661b:ebff:ddb9", 
-                    "domain_name": "trepan.subluminal.hype", 
+                    "domain_name": "trepan.subluminal", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^trepan\\.subluminal\\.hype$"
+            "selector": "^trepan\\.subluminal$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc0c:7de0:f54d:945a:3cb4:30f1:9069:d531", 
-                    "domain_name": "tres.gatos.hype", 
+                    "domain_name": "tres.gatos", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^tres\\.gatos\\.hype$"
+            "selector": "^tres\\.gatos$"
         }, 
         {
             "records": [
@@ -13020,12 +12888,12 @@
             "records": [
                 {
                     "rdata": "fcfc:2ebe:346c:7fe7:95af:a58b:2631:dead", 
-                    "domain_name": "trisha.rndsec.hype", 
+                    "domain_name": "trisha.rndsec", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^trisha\\.rndsec\\.hype$"
+            "selector": "^trisha\\.rndsec$"
         }, 
         {
             "records": [
@@ -13042,45 +12910,45 @@
             "records": [
                 {
                     "rdata": "fc10:0b65:bcca:3f1c:ec91:a484:cb6a:e782", 
-                    "domain_name": "turk-se.eztv.hype", 
+                    "domain_name": "turk-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^turk\\-se\\.eztv\\.hype$"
+            "selector": "^turk\\-se\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcdd:ce88:a85b:8d72:6a62:dad5:9a2f:0a6c", 
-                    "domain_name": "turk.hub222k.hype", 
+                    "domain_name": "turk.hub222k", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^turk\\.hub222k\\.hype$"
+            "selector": "^turk\\.hub222k$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc6a:69cb:ef92:78e0:ec3f:7997:73ed:99f2", 
-                    "domain_name": "tuvula-ca.eztv.hype", 
+                    "domain_name": "tuvula-ca.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^tuvula\\-ca\\.eztv\\.hype$"
+            "selector": "^tuvula\\-ca\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc95:087e:08ec:0dd3:ad48:d33a:784c:3e71", 
-                    "domain_name": "twa.bannockburn.hype", 
+                    "domain_name": "twa.bannockburn", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^twa\\.bannockburn\\.hype$"
+            "selector": "^twa\\.bannockburn$"
         }, 
         {
             "records": [
@@ -13097,12 +12965,12 @@
             "records": [
                 {
                     "rdata": "fce9:7766:9e90:6a30:d461:e475:b658:5bf4", 
-                    "domain_name": "ubu.volt.hype", 
+                    "domain_name": "ubu.volt", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^ubu\\.volt\\.hype$"
+            "selector": "^ubu\\.volt$"
         }, 
         {
             "records": [
@@ -13129,24 +12997,13 @@
         {
             "records": [
                 {
-                    "rdata": "uppit.us", 
-                    "domain_name": "uppit.us.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^uppit\\.us\\.hype$"
-        }, 
-        {
-            "records": [
-                {
                     "rdata": "fce1:ab7a:577c:12b6:35a3:be68:6fde:ea85", 
-                    "domain_name": "url.s.hype", 
+                    "domain_name": "url.s", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^url\\.s\\.hype$"
+            "selector": "^url\\.s$"
         }, 
         {
             "records": [
@@ -13163,34 +13020,34 @@
             "records": [
                 {
                     "rdata": "fc69:924a:9382:7f24:5c42:e5b9:ffde:aaa1", 
-                    "domain_name": "varia-ca.eztv.hype", 
+                    "domain_name": "varia-ca.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^varia\\-ca\\.eztv\\.hype$"
+            "selector": "^varia\\-ca\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fce7:15d1:0f4d:8f87:34d8:168d:0b0f:d885", 
-                    "domain_name": "vegphilez.paz.hype", 
+                    "domain_name": "vegphilez.paz", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vegphilez\\.paz\\.hype$"
+            "selector": "^vegphilez\\.paz$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc36:9ddc:460f:36bb:cd4d:8157:8591:f936", 
-                    "domain_name": "vm.dormedas.hype", 
+                    "domain_name": "vm.dormedas", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vm\\.dormedas\\.hype$"
+            "selector": "^vm\\.dormedas$"
         }, 
         {
             "records": [
@@ -13217,46 +13074,35 @@
         {
             "records": [
                 {
-                    "rdata": "vm.jeremy", 
-                    "domain_name": "vm.jeremy.hype", 
-                    "rtype": "AAAA"
-                }
-            ], 
-            "targets": [], 
-            "selector": "^vm\\.jeremy\\.hype$"
-        }, 
-        {
-            "records": [
-                {
                     "rdata": "fcf3:2015:05f7:e2d8:39e8:51ca:1cd5:b29b", 
-                    "domain_name": "vm.jeremy.hype", 
+                    "domain_name": "vm.jeremy", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vm\\.jeremy\\.hype$"
+            "selector": "^vm\\.jeremy$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcf3:eda9:ad5f:fd5d:8990:8ba6:7628:2c79", 
-                    "domain_name": "vm.mappum.hype", 
+                    "domain_name": "vm.mappum", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vm\\.mappum\\.hype$"
+            "selector": "^vm\\.mappum$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc8a:552c:3d0d:8a83:7ccd:20e4:c699:e7c7", 
-                    "domain_name": "vm1.gerard.hype", 
+                    "domain_name": "vm1.gerard", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vm1\\.gerard\\.hype$"
+            "selector": "^vm1\\.gerard$"
         }, 
         {
             "records": [
@@ -13273,133 +13119,133 @@
             "records": [
                 {
                     "rdata": "fcd7:61f9:7bd0:4060:851e:1ba9:471f:7f52", 
-                    "domain_name": "vps1.s1w.hype", 
+                    "domain_name": "vps1.s1w", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vps1\\.s1w\\.hype$"
+            "selector": "^vps1\\.s1w$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc28:d8ae:f49f:a19c:948b:423d:474c:263b", 
-                    "domain_name": "vps2.s1w.hype", 
+                    "domain_name": "vps2.s1w", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vps2\\.s1w\\.hype$"
+            "selector": "^vps2\\.s1w$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcb8:ee15:9714:6a8f:f8d1:7481:ba13:440b", 
-                    "domain_name": "vps3.s1w.hype", 
+                    "domain_name": "vps3.s1w", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vps3\\.s1w\\.hype$"
+            "selector": "^vps3\\.s1w$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcb1:e1c0:d003:e0fa:1ca2:5048:8d45:65da", 
-                    "domain_name": "vps3.s1w.hype", 
+                    "domain_name": "vps3.s1w", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vps3\\.s1w\\.hype$"
+            "selector": "^vps3\\.s1w$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc73:3ba4:45a3:a4e1:e304:5620:0216:f3cf", 
-                    "domain_name": "vs.benthor.hype", 
+                    "domain_name": "vs.benthor", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^vs\\.benthor\\.hype$"
+            "selector": "^vs\\.benthor$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc6d:db58:b37d:6f19:0180:7d43:d2f2:a643", 
-                    "domain_name": "wasabi.dre.hype", 
+                    "domain_name": "wasabi.dre", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^wasabi\\.dre\\.hype$"
+            "selector": "^wasabi\\.dre$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc6d:7f75:427e:bdcf:0ef9:1fcc:62c6:34d0", 
-                    "domain_name": "web.re.act.hype", 
+                    "domain_name": "web.re.act", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^web\\.re\\.act\\.hype$"
+            "selector": "^web\\.re\\.act$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc9d:2ef7:3fb4:70e1:847c:d810:d5e3:fe21", 
-                    "domain_name": "web1-ca.btc.hype", 
+                    "domain_name": "web1-ca.btc", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^web1\\-ca\\.btc\\.hype$"
+            "selector": "^web1\\-ca\\.btc$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc37:acb2:544b:ed86:8b8d:9945:add7:b119", 
-                    "domain_name": "web2-ca.btc.hype", 
+                    "domain_name": "web2-ca.btc", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^web2\\-ca\\.btc\\.hype$"
+            "selector": "^web2\\-ca\\.btc$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcf2:c59f:8ac8:b1f0:98bb:3c00:0f29:5e22", 
-                    "domain_name": "web2-ca.btc.hype", 
+                    "domain_name": "web2-ca.btc", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^web2\\-ca\\.btc\\.hype$"
+            "selector": "^web2\\-ca\\.btc$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc60:512e:b497:0449:6921:bbb5:4755:b59a", 
-                    "domain_name": "werecat.alpha.hype", 
+                    "domain_name": "werecat.alpha", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^werecat\\.alpha\\.hype$"
+            "selector": "^werecat\\.alpha$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcc7:159a:81f6:d8bf:05af:72d8:e79e:5950", 
-                    "domain_name": "wheatley.aperture.hype", 
+                    "domain_name": "wheatley.aperture", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^wheatley\\.aperture\\.hype$"
+            "selector": "^wheatley\\.aperture$"
         }, 
         {
             "records": [
@@ -13416,45 +13262,45 @@
             "records": [
                 {
                     "rdata": "fc6c:32ab:968b:0272:ab3c:ad1f:94bd:538e", 
-                    "domain_name": "windowlappie-ca.iR.hype", 
+                    "domain_name": "windowlappie-ca.iR", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^windowlappie\\-ca\\.iR\\.hype$"
+            "selector": "^windowlappie\\-ca\\.ir$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc3e:4f8c:49fc:48a3:3b92:90c0:fbf0:3fbb", 
-                    "domain_name": "www-1-se.eztv.hype", 
+                    "domain_name": "www-1-se.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^www\\-1\\-se\\.eztv\\.hype$"
+            "selector": "^www\\-1\\-se\\.eztv$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fc14:dbb1:d8d1:b356:d066:4f0f:e9e9:fd4c", 
-                    "domain_name": "xoxo.hub222k.hype", 
+                    "domain_name": "xoxo.hub222k", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^xoxo\\.hub222k\\.hype$"
+            "selector": "^xoxo\\.hub222k$"
         }, 
         {
             "records": [
                 {
                     "rdata": "fcae:070a:2a64:5293:f191:6386:fc33:eb4c", 
-                    "domain_name": "xubuntu-ca.iR.hype", 
+                    "domain_name": "xubuntu-ca.iR", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^xubuntu\\-ca\\.iR\\.hype$"
+            "selector": "^xubuntu\\-ca\\.ir$"
         }, 
         {
             "records": [
@@ -13471,12 +13317,12 @@
             "records": [
                 {
                     "rdata": "fcac:5c64:76df:c797:be46:948f:498c:5cf6", 
-                    "domain_name": "xyz.zy.hype", 
+                    "domain_name": "xyz.zy", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^xyz\\.zy\\.hype$"
+            "selector": "^xyz\\.zy$"
         }, 
         {
             "records": [
@@ -13504,12 +13350,12 @@
             "records": [
                 {
                     "rdata": "fcea:fa55:b453:b4f3:5ab4:06de:8977:1b5b", 
-                    "domain_name": "zebul-de.eztv.hype", 
+                    "domain_name": "zebul-de.eztv", 
                     "rtype": "AAAA"
                 }
             ], 
             "targets": [], 
-            "selector": "^zebul\\-de\\.eztv\\.hype$"
+            "selector": "^zebul\\-de\\.eztv$"
         }, 
         {
             "records": [

@@ -16,6 +16,7 @@ from docopt import docopt
 import json
 import re
 import requests
+import socket
 import sys
 
 METADATA = {
@@ -23,17 +24,26 @@ METADATA = {
 }
 
 def make_selector(hostname):
-    return '^' + re.escape(hostname + '.hype') + '$'
+    return '^' + re.escape(hostname.lower()) + '$'
 
 def make_branch(host):
-    hostname = re.sub('\\.hype$', '', host['name'])
+    hostname = host['name']
     ip = host['ip']
+
+    # Filter out entries with invalid IP addrs
+    try:
+        socket.inet_pton(socket.AF_INET6, ip)
+    except:
+        return
+
+    if not "." in hostname:
+        hostname += '.hype'
 
     return {
         'selector' : make_selector(hostname),
         'records'  : [
             {
-                'domain_name': hostname + '.hype',
+                'domain_name': hostname,
                 'rtype': 'AAAA',
                 'rdata': ip
             }
@@ -57,6 +67,9 @@ if __name__ == '__main__':
     data.sort(key = lambda x: x['name'])
     contents = {
         'meta' : METADATA,
-        'branches': [make_branch(host) for host in data]
+        'branches': [   branch for branch in 
+                        (make_branch(host) for host in data)
+                        if branch != None
+                    ]
     }
     json.dump(contents, output, indent=4)
