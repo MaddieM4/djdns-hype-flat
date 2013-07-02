@@ -8,8 +8,8 @@
         {
             "selector": ".*",
             "records" : [],
-            "targets" : ["./tlds/hype/generated.json"],
-            "comment" : "Fallback mechanism - evil but it works"
+            "targets" : ["dns://8.8.8.8/"],
+            "comment" : "Google Fallback, for ICANN domains"
         }
     ]
 }

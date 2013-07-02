@@ -44,6 +44,7 @@ if __name__ == '__main__':
         'listen_host': '0.0.0.0',
         'listen_port': 53,
         'path' : './root.json',
+        'debug' : True,
     }
     server_ipv4 = DJServer(**config_ipv4)
     server_ipv4.bind()
