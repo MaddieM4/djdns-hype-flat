@@ -21,6 +21,7 @@ import os
 import grp
 import pwd
 import threading
+import time
 import traceback
 
 from djdns.server import DJServer
@@ -37,31 +38,44 @@ def drop_priveleges(user, group):
     os.setgid(gid)
     os.setuid(uid)
 
+def serve_threaded(server):
+    thread = threading.Thread(target=server.serve)
+    thread.daemon = True
+    thread.start()
+    return thread
+
+def serve_wait(*servers):
+    try:
+        while True:
+            time.sleep(1)
+            for server in servers:
+                if not server.serving:
+                    break
+    except KeyboardInterrupt:
+        pass
+
+    for server in servers:
+        print "STOPPING SERVER %r" % server
+        server.stop()
+        server.thread.join(1)
+
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='0.0.1')
     os.chdir(arguments['-d'])
-    config_ipv4 = {
-        'listen_host': '0.0.0.0',
+    config = {
+        'listen_host': ('::0', 0, 1),
         'listen_port': 53,
         'path' : './root.json',
         'debug' : False,
     }
-    server_ipv4 = DJServer(**config_ipv4)
-    server_ipv4.bind()
+
+    server = DJServer(**config)
+    server.bind()
     try:
         drop_priveleges(arguments['-u'], arguments['-g'])
     except:
         traceback.print_exc()
-        server_ipv4.stop()
+        server.stop()
 
-    thread_ipv4 = threading.Thread(target=server_ipv4.serve)
-    thread_ipv4.daemon = True
-    thread_ipv4.start()
-
-    while server_ipv4.serving:
-        try:
-            thread_ipv4.join(1)
-        except KeyboardInterrupt:
-            print "STOPPING SERVER"
-            server_ipv4.stop()
-    thread_ipv4.join(1)
+    server.thread = serve_threaded(server)
+    serve_wait(server)
