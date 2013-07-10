@@ -26,7 +26,7 @@ That way, you can copy the original back over later if you have to.
 
 Replace the contents of /etc/resolv.conf with the following:
 
-    nameserver fcd5:7d07:2146:f18f:f937:d46e:77c9:80e7
+    nameserver [fcd5:7d07:2146:f18f:f937:d46e:77c9:80e7]
     nameserver 173.255.210.202
     nameserver 8.8.8.8
 
