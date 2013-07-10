@@ -12,7 +12,7 @@
                 {
                     "domain_name": "appnode.hype",
                     "rtype" : "AAAA",
-                    "rdata": "fc20:b48d:4ff4:275a:a86f:48d9:2cff:c"
+                    "rdata": "fcbf:7bbc:32e4:716:bd00:e936:c927:fc14"
                 }
             ],
             "targets" : []
