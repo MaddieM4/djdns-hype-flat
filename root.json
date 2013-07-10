@@ -6,6 +6,12 @@
             "targets" : ["./tlds/hype/root.json"]
         },
         {
+            "selector": "\\.bit$",
+            "records" : [],
+            "targets" : ["dns://178.63.16.21/"],
+            "comment" : "Namecoin (.bit)"
+        },
+        {
             "selector": "\\.(bbs|dyn|free|fur|geek|gopher|indy|ing|micro|neo|null|oss|oz|parody)$",
             "records" : [],
             "targets" : ["dns://216.87.84.211/"],
