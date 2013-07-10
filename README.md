@@ -53,6 +53,7 @@ $ virtualenv dhf
 $ cd dhf
 $ source ./bin/activate
 $ pip install docopt
+$ pip install persei
 $ git clone https://github.com/campadrenalin/pymads
 $ git clone https://github.com/campadrenalin/python-djdns
 $ git clone https://github.com/campadrenalin/djdns-hype-flat
