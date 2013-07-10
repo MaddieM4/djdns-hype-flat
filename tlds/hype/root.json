@@ -9,6 +9,11 @@
             "targets" : ["private/ri.json"]
         },
         {
+            "selector": "^(appnode|gitboria|hypeirc|hyperboria|projectmeshnet|socialnode|urlcloud)\\.hype$",
+            "records" : [],
+            "targets" : ["private/dansup.json"]
+        },
+        {
             "selector": ".*",
             "records" : [],
             "targets" : ["tlds/hype/generated.json"]

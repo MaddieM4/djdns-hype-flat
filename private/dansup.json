@@ -1,0 +1,85 @@
+{
+    "meta": {
+        "authority": "https://github.com/campadrenalin/djdns-hype-flat/issues/4",
+        "contact": "@dansup or @campadrenalin on Github",
+        "about": "Dansup's DJDNS page.",
+        "policy": "Private"
+    },
+    "branches": [
+        {
+            "selector": "^appnode\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "appnode.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fcbf:7bbc:32e4:716:bd00:e936:c927:fc14"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^gitboria\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "gitboria.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fc59:36a2:27a9:ccf3:1903:9fc6:5a8f:7499"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^hypeirc\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "hypeirc.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fcbf:7bbc:32e4:716:bd00:e936:c927:fc14"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^hyperboria\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "hyperboria.hype",
+                    "rdata": "173.255.219.67"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^projectmeshnet\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "projectmeshnet.hype",
+                    "rdata": "173.255.219.67"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^socialnode\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "socialnode.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fcbf:7bbc:32e4:716:bd00:e936:c927:fc14"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^urlcloud\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "urlcloud.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fcbf:7bbc:32e4:716:bd00:e936:c927:fc14"
+                }
+            ],
+            "targets" : []
+        }
+    ]
+}
