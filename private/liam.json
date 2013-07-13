@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "authority": "https://github.com/campadrenalin/djdns-hype-flat/issues/12",
+        "contact": "Liam on HypeIRC, or @campadrenalin on Github",
+        "about": "Liam's DJDNS page for the Riddims music streaming service.",
+        "policy": "Private"
+    },
+    "branches": [
+        {
+            "selector": "^riddims\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "riddims.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fcea:b868:b0a7:752c:4b59:b9cf:58ac:51eb"
+                }
+            ],
+            "targets" : []
+        }
+    ]
+}
