@@ -1,0 +1,16 @@
+{
+    "meta": {
+        "authority": "https://github.com/campadrenalin/djdns-hype-flat",
+        "contact": "https://github.com/campadrenalin/djdns-hype-flat/issues",
+        "about": "An example of a local alt DNS server deferral",
+        "policy": "Structural. Report issues to contact link."
+    },
+    "branches": [
+        {
+            "selector": ".*",
+            "records" : [],
+            "targets" : ["dns://127.0.0.1:9999/"],
+            "comment" : "Local ExampleDNS resolver on port 9999"
+        }
+    ]
+}
