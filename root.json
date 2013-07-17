@@ -8,20 +8,20 @@
         {
             "selector": "\\.bit$",
             "records" : [],
-            "targets" : ["dns://178.63.16.21/"],
+            "targets" : ["defer/namecoin.json"],
             "comment" : "Namecoin (.bit)"
         },
         {
             "selector": "\\.(bbs|dyn|free|fur|geek|gopher|indy|ing|micro|neo|null|oss|oz|parody)$",
             "records" : [],
-            "targets" : ["dns://216.87.84.211/"],
+            "targets" : ["defer/opennic.json"],
             "comment" : "OpenNIC domains"
         },
         {
             "selector": ".*",
             "records" : [],
-            "targets" : ["dns://8.8.8.8/"],
-            "comment" : "Google Fallback, for ICANN domains"
+            "targets" : ["defer/icann.json"],
+            "comment" : "ICANN domains"
         }
     ]
 }

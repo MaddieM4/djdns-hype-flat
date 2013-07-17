@@ -1,0 +1,16 @@
+{
+    "meta": {
+        "authority": "https://github.com/campadrenalin/djdns-hype-flat",
+        "contact": "https://github.com/campadrenalin/djdns-hype-flat/issues",
+        "about": "Resolves ICANN domains with public root DNS servers",
+        "policy": "Structural. Report issues to contact link."
+    },
+    "branches": [
+        {
+            "selector": ".*",
+            "records" : [],
+            "targets" : ["dns://8.8.8.8/"],
+            "comment" : "Google Fallback, for ICANN domains"
+        }
+    ]
+}

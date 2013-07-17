@@ -1,0 +1,16 @@
+{
+    "meta": {
+        "authority": "https://github.com/campadrenalin/djdns-hype-flat",
+        "contact": "https://github.com/campadrenalin/djdns-hype-flat/issues",
+        "about": "Resolves OpenNIC domains with public OpenNIC servers",
+        "policy": "Structural. Report issues to contact link."
+    },
+    "branches": [
+        {
+            "selector": ".*",
+            "records" : [],
+            "targets" : ["dns://216.87.84.211/"],
+            "comment" : "OpenNIC domains"
+        }
+    ]
+}
