@@ -16,6 +16,17 @@
                 }
             ],
             "targets" : []
-        }
+        },
+        {
+            "selector": "^download\\.orinjido\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "download.orinjido.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fcb4:971f:7e31:420:60bd:7fdc:b686:5493"
+                }
+            ],
+            "targets" : []
+        },
     ]
 }
