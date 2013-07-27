@@ -19,7 +19,7 @@
             "targets" : ["private/liam.json"]
         },
         {
-            "selector": "^orinjido\\.hype$",
+            "selector": "(^|\\.)orinjido\\.hype$",
             "records" : [],
             "targets" : ["private/daktyl198.json"]
         },
