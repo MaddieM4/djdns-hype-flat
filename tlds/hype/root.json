@@ -19,6 +19,11 @@
             "targets" : ["private/liam.json"]
         },
         {
+            "selector": "^orinjido\\.hype$",
+            "records" : [],
+            "targets" : ["private/daktyl198.json"]
+        },
+        {
             "selector": ".*",
             "records" : [],
             "targets" : ["tlds/hype/generated.json"]
