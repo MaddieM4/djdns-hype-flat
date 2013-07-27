@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "authority": "https://github.com/Daktyl198",
+        "contact": "Daktyl198 on HypeIRC, or @Daktyl198 on Github",
+        "about": "Daktyl198's DJDNS domains",
+        "policy": "Private"
+    },
+    "branches": [
+        {
+            "selector": "^orinjido\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "orinjido.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fcb4:971f:7e31:420:60bd:7fdc:b686:5493"
+                }
+            ],
+            "targets" : []
+        }
+    ]
+}
