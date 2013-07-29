@@ -24,6 +24,11 @@
             "targets" : ["private/daktyl198.json"]
         },
         {
+            "selector": "(^|\\.)(terracrypt|matrix)\\.hype$",
+            "records" : [],
+            "targets" : ["private/ryukafalz.json"]
+        },
+        {
             "selector": ".*",
             "records" : [],
             "targets" : ["tlds/hype/generated.json"]
