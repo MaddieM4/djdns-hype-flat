@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "authority": "https://github.com/jfrederickson",
+        "contact": "@jfrederickson on Github or ryukafalz on HypeIRC",
+        "about": "Ryukafalz's DJDNS page.",
+        "policy": "Private"
+    },
+    "branches": [
+        {
+            "selector": "^terracrypt\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "terracrypt.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fcc0:e73d:3234:d51a:477c:3b07:e501:4259"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^lyoko\\.terracrypt\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "lyoko.terracrypt.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fc68:7cb0:6d4a:7498:7b5a:864e:3cbb:6c7"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^bluesun\\.terracrypt\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "bluesun.terracrypt.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fc6b:dc26:1534:9077:9dbf:be45:4b07:a378"
+                }
+            ],
+            "targets" : []
+        },
+        {
+            "selector": "^matrix\\.hype$",
+            "records" : [
+                {
+                    "domain_name": "matrix.hype",
+                    "rtype" : "AAAA",
+                    "rdata": "fce9:df87:2170:6a3d:e0d4:67a5:c82d:1bc0"
+                }
+            ],
+            "targets" : []
+        }
+    ]
+}
