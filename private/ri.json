@@ -1,4 +1,10 @@
 {
+    "meta": {
+        "authority": "Campadrenalin/Rainfly_X/Philip Horger",
+        "contact": "@campadrenalin on github, or philip@roaming-initiative.com, or rainfly_x on reddit/HypeIRC/socialno.de",
+        "about": "Roaming Initiative company DJDNS page.",
+        "policy": "Private"
+    },
     "branches": [
         {
             "selector": "^(gmg\\.)?ri\\.hype$",
@@ -10,10 +16,17 @@
                 {
                     "domain_name": "ri.hype",
                     "rtype" : "AAAA",
+                    "rdata": "fcd5:7d07:2146:f18f:f937:d46e:77c9:80e7"
+                },
+                {
+                    "domain_name": "ri.hype",
+                    "rtype" : "AAAA",
                     "rdata": "2600:3c01::f03c:91ff:feae:1082"
                 }
             ],
-            "targets" : []
+            "targets" : [],
+            "users": {
+            }
         },
         {
             "selector": "^orchard\\.ri\\.hype$",
