@@ -15,7 +15,24 @@
                     "rdata": "fcc0:e73d:3234:d51a:477c:3b07:e501:4259"
                 }
             ],
-            "targets" : []
+            "targets" : [],
+            "users": {
+                "[\"udp\",[\"fcc0:e73d:3234:d51a:477c:3b07:e501:4259\",9090],\"jonathan\"]": {
+                  "encryptor": [
+                    "rsa",
+                    "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAjlvCzd9y1kWR2A0ILCw7\nTNLBORoa7qPj4sOP6F3VdhrJDVbjlMZT84bpQCEK/bKcP1uumNYa1yMHMXPfzfWO\n/WGLaaUSeua/8/ab/0JVGXXON2Q11jYTcqx4F4QlHK59EY6lEQQ2LrzrorRFohue\n3Oqhmsl1BNfPPkCApOO+YkEmJrzQixVeOduAV11XmOiFi7kTmJIOeJbnFhT9DBzy\nJd1AAmnsixsIddHMurOlltqMr6FnLDeQJV4PSJYbHPdKCy59VO3hV/wdbx7g8fUC\nCSaaypyHpCDWhHARX3Y3ktkfpBZc7NYN4anar/4fJxV/ETxSB/rGJ249w/R0ztOx\n/l0irxkLYEgR64bX7QtHDcc0TPqjx64bj7y9m+qXNXHgsBW3AU+Bbgl/whoyF+zJ\niyX72UkdFy2IMnvle4+7n541kKSrt4uhhBwt11gmA6vyN1iR7M4pZnHRwWOmp6/g\n7kv65V19RnXm6r+LYHgCli3KMADyEm9L/JVlzw3P76F6KczVS9EmzNlwPyaFra6b\nGNEG8Pn0A3M+axpu9KOHX4VhvKn+G95zTCPulKPpeY0jJRBVbmxwvnmQs3gKKeNc\nQ4F16/XC48gVYse22ji35WBmtRUl6rh/R6I/NAxOgMvAFHWcoUy7bu4UZP58QM8Q\nNu+7L/v6Qee4bFW7n2XoVEcCAwEAAQ==\n-----END PUBLIC KEY-----"
+                  ],
+                  "name": "jonathan@terracrypt.hype",
+                  "location": [
+                    "udp",
+                    [
+                      "fcc0:e73d:3234:d51a:477c:3b07:e501:4259",
+                      9090
+                    ],
+                    "jonathan"
+                  ]
+                }
+              }
         },
         {
             "selector": "^lyoko\\.terracrypt\\.hype$",
@@ -48,7 +65,24 @@
                     "rdata": "fce9:df87:2170:6a3d:e0d4:67a5:c82d:1bc0"
                 }
             ],
-            "targets" : []
+            "targets" : [],
+            "users": {
+                "[\"udp\",[\"fce9:df87:2170:6a3d:e0d4:67a5:c82d:1bc0\",9090],\"jonathan\"]": {
+                    "encryptor": [
+                    "rsa",
+                    "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA1nE+WtwbBvQcT5VVFPpc\nkFEJD9iEALziSntaBjJK+GVD/b1XaNwrU4nYy19BTBOpen7PAhOlPLYVUd5vakzK\niSoPlwZpEEMORm03I7bSNfLSBsNMtmIOyTpCc1QKg8EflWzgnlXAH2UwgcgdqEAh\n2MnnMl5pcpQFmWsACDPaT0V87i93yc2HCuAiExPUIfLO5JFayrnkovu6QMzQGtCP\nPpTse5HAts2jxqw0q66RIUlMxQtfqchPPOdM6TgbekUafebdIkJSLwNHO7AoUkEQ\n1dSasY82VkGLWgI+AKqGe5AGJ3JCSGfdDixXLiouWzDv8bpJ0ylk3tBo7LhnYhGI\nbAnTayp50XQjUE86/WeVEjlwxBcCd4Bs+Nr47zBofpefonAw+aPhPSESJ4mm5NJh\nWfncjj9HTXYX6lPMsxGuDaGyCoF4ItmXeDESVFbuRkIk30FM+Xh6G9PiayLAT3tN\nqAg4TI6gk/ZYAqFXi3A3t+r1sqpJrMU5TCOzDiEiebDmocdVJK/8msLC/Kn7Jyvz\nC5UZnSf0Jwq7tmSgBnmAAxZJULWCAMf3lRm63Al/IAUSKEGbyzk3PuaINaKq34I3\n764tpeVxx3RIHDnAhhPRzx8Lrgc2FLCvp7n60zSwk1D1D+2m38obuVx21oAPmz1u\nbThXgyiRjbFDMTCyKD5A99ECAwEAAQ==\n-----END PUBLIC KEY-----"
+                    ],
+                    "name": "jonathan@matrix.hype",
+                    "location": [
+                    "udp",
+                    [
+                        "fce9:df87:2170:6a3d:e0d4:67a5:c82d:1bc0",
+                        9090
+                    ],
+                    "jonathan"
+                    ]
+                }
+            }
         }
     ]
 }
